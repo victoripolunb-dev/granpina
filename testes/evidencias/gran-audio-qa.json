@@ -1,0 +1,25 @@
+{
+  "arquivo": "gran-audio-qa.mp3",
+  "duracao_segundos": 12.632,
+  "idioma": "pt",
+  "segmentos": [
+    {
+      "inicio_segundos": 0.0,
+      "fim_segundos": 5.0,
+      "texto": "Em regra, o pedido deve ser apresentado por escrito.",
+      "probabilidade_sem_fala": 0.006
+    },
+    {
+      "inicio_segundos": 5.0,
+      "fim_segundos": 9.0,
+      "texto": "No exemplo, faltou a assinatura.",
+      "probabilidade_sem_fala": 0.006
+    },
+    {
+      "inicio_segundos": 9.0,
+      "fim_segundos": 12.0,
+      "texto": "Por isso, o pedido foi devolvido.",
+      "probabilidade_sem_fala": 0.006
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "titulo": "Amostra de formatação",
+  "blocos": [
+    {"tipo": "titulo_secundario", "texto": "Regra e exceção"},
+    {"tipo": "texto", "texto": "Em regra, o pedido deve ser apresentado no prazo. No exemplo, a apresentação ocorreu fora do prazo, motivo pelo qual o pedido foi indeferido.", "minuto": 5},
+    {"tipo": "citacao", "texto": "Trecho fictício para teste de recuo, espaçamento e tamanho de fonte."},
+    {"tipo": "subtitulo", "texto": "Pontos da análise"},
+    {"tipo": "marcador", "texto": "Prazo para apresentação."},
+    {"tipo": "marcador", "texto": "Condição para análise do pedido."},
+    {"tipo": "destaque", "texto": "ATENÇÃO"},
+    {"tipo": "texto", "texto": "A ressalva integra o raciocínio e deve permanecer junto da regra.", "fim_destaque": true},
+    {"tipo": "texto", "texto": "A exposição retoma a sequência após o destaque.", "minuto": 10}
+  ]
+}

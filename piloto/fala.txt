@@ -1,0 +1,675 @@
+
+00:00:00 ?Música?
+00:00:05 Salve, salve, meu amigo concurseiro, minha
+amiga concurseira, seja bem-vindo, seja
+00:00:10 bem-vinda de volta. Olha só, na aula
+anterior, você viu por que as práticas
+00:00:15 isoladas não bastam. E aí você conheceu os
+princípios e as etapas do planejamento
+00:00:21 conservacionista. Nós estudamos ali como
+lidar com as áreas já degradadas também,
+00:00:27 né? E fizemos questões de concurso
+público. Agora a gente precisa dar
+00:00:32 continuidade na nossa aula sobre
+planejamento conservacionista. Olha só,
+00:00:38 antes da gente iniciar a nossa aula
+propriamente dita, eu quero mostrar para
+00:00:41 vocês aqui a nossa agenda. Nós vamos
+começar pelo diagnóstico físico
+00:00:46 conservacionista, que é a origem do método
+conservacionista. Então a gente vai ver os
+                             1 / 33
+00:00:52 seus objetivos, a gente vai ver ali um
+critério concreto de florestamento mínimo
+00:00:57 por declividade. Depois a gente vai ver o
+diagnóstico socioeconômico e em sequência
+00:01:04 o diagnóstico ambiental. Aí a gente vai...
+Olhar para a Roda Viva, que é a Roda Viva
+00:01:14 de Deterioração da Ambiência. E aí, quando
+a gente for falar da Roda Viva, a gente
+00:01:21 vai fazer cálculo também, viu pessoal? E
+aí eu vou mostrar para vocês o passo a
+00:01:25 passo de fazer o cálculo de Deterioração
+da Ambiência. Por fim, a gente vai falar
+00:01:32 sobre Bacia Hidrográfica, sendo ela ali a
+unidade de planejamento e também o marco
+00:01:39 institucional dos programas de Microbacia
+no Brasil. A gente vê isso aí também
+00:01:44 quando for falar sobre Bacia Hidrográfica.
+E ao longo do caminho, pessoal, a gente
+00:01:48 resolve questão de concurso público,
+justamente para que você possa ver como
+                             2 / 33
+00:01:52 esse conteúdo é cobrado nas provas.
+Perfeito? Bom, agora sim vamos seguir.
+00:01:59 Olha só. Vamos primeiro falar do
+diagnóstico físico-conservacionista, que
+00:02:05 carinhosamente a gente vai chamá-lo daqui
+para frente de DFC, diagnóstico
+00:02:09 físico-conservacionista. Tranquilo? Ele é
+um dos métodos de referência... Para fazer
+00:02:19 o diagnóstico da parte física de um
+planejamento conservacionista. Qual que
+00:02:26 foi a origem desse diagnóstico? Esse
+método, ele surgiu ali a partir da
+00:02:32 metodologia do Serviço de Conservação do
+Sol lá dos Estados Unidos, viu pessoal? Aí
+00:02:37 depois, ele foi adaptado e aplicado para
+as bacias hidrográficas brasileiras. Já
+00:02:44 foi muito utilizado inclusive aí no Rio
+Grande do Sul. Bom, por que que o DFC vem
+00:02:50 primeiro? Nós não temos apenas o DFC, você
+vai ver daqui a pouquinho. Nós temos
+                             3 / 33
+00:02:56 outros. Mas por que que o DFC é preciso
+fazer ele primeiro? Porque o meio físico,
+00:03:02 pessoal, ele é a base de tudo. Então antes
+de você discutir renda, antes de você
+00:03:09 discutir infraestrutura, antes de você
+observar ali a qualidade ambiental, é
+00:03:15 preciso você saber o que? Como é que está
+o solo? Como é que está o relevo? A
+00:03:20 cobertura? Como é que está a água dessa
+bacia hidrográfica? Então precisa fazer
+00:03:26 esse raio físico aí primeiro, para depois
+olhar os outros diagnósticos. Bom, é
+00:03:34 preciso deixar também aqui um alerta bem
+honesto para vocês. O DFC é um método
+00:03:40 específico e é o método mais conhecido na
+literatura técnica quando a gente fala
+00:03:46 sobre manejo de bacias hidrográficas. Se a
+prova for cobrar detalhes dele, você
+00:03:52 precisa conferir ali, né? Primeiro você
+precisa conferir o seu edital, ver qual
+                             4 / 33
+00:03:59 que é a fonte que a banca vai adotar. Você
+vai precisar também... Olha, ah,
+00:04:04 professor, eu não sei como é que eu vejo
+isso. Como é que você vai ver isso? Você
+00:04:07 vai olhar questão de concurso público
+anterior. Se a sua banca, por exemplo, é
+00:04:12 FGV, Sebrasp, então você vai resolver
+muitas questões dessa banca para que você
+00:04:17 possa perceber qual que é a metodologia
+que a banca está usando. Porque geralmente
+00:04:23 as questões vão de acordo com uma
+metodologia. Tranquilo? Bom, dito isso,
+00:04:31 agora a gente precisa adiantar um
+pouquinho aqui e a gente precisa falar
+00:04:35 sobre os objetivos do DFC. Existe Objetivo
+Geral e Existe Objetivos Específicos, e aí
+00:04:44 você tem que saber qual é qual. Quando a
+gente fala em DFC, o objetivo geral dele é
+00:04:53 justamente reunir informações. Para quê?
+Para retenção, controle de água da chuva.
+                             5 / 33
+00:05:01 Então, essas informações vão trabalhar
+como? Trabalhando ali por micro-bacias
+00:05:06 dentro de uma sub-bacia. É tecnicamente
+isso, pessoal. Então, existe uma ideia
+00:05:14 aqui de escalas. A bacia que vai se
+dividir em sub-bacias, que vão se dividir
+00:05:22 em micro-bacias. É como se a gente
+estivesse olhando aquelas bonecas russas
+00:05:26 que ficam uma dentro da outra. Então, esse
+é o objetivo geral, reunir informações.
+00:05:32 Perfeito? Aí existem os Objetivos
+Específicos. Qual que é o objetivo
+00:05:45 específico? São três. Primeiro, precisa
+mapear onde estão as terras mais propícias
+00:05:54 para a agricultura, para o florestamento,
+para a pastagem, terras que não podem ser
+00:06:02 utilizadas, precisa ali ficar com
+floresta. Segundo, precisa recomendar
+00:06:09 florestamentos e operações que favoreçam a
+infiltração de água no solo. E terceiro,
+                             6 / 33
+00:06:18 dar base para o controle da erosão. Então,
+o terceiro é dar essa base para que?
+00:06:27 Controlar a erosão, mas não é só a erosão,
+controlar a seca, controle das enchentes,
+00:06:33 controle dos assoreamentos que podem
+acontecer ali ao longo daquela bacia.
+00:06:38 Então, repare que existe aqui um fio
+condutor. Tudo vai girar em torno de quê?
+00:06:44 Em torno de fazer a água da chuva
+infiltrar no solo. Então, a ideia central
+00:06:52 aqui, os objetivos, eles justamente vão
+girar em torno disso. Fazer com que haja
+00:06:58 infiltração da água da chuva, que se
+diminua o quê? A enxurrada. Porque se a
+00:07:08 água infiltra no solo, ela abastece o
+lençol freático, ela alimenta os rios,
+00:07:15 principalmente ali na seca, né? E, o mais
+importante, ela não leva a terra embora.
+00:07:21 Então, veja que a gente está falando de
+planejamento conservacionista. Então, é
+                             7 / 33
+00:07:25 conservar o meio ambiente, conservar o
+solo. Conservar solo e, consequentemente,
+00:07:31 conservar a água. Bom, aí aqui a gente vai
+falar de um critério, um critério muito
+00:07:38 concreto do método DFC. que é o critério
+do florestamento mínimo por declividade.
+00:07:47 Esse critério é relativamente bem simples,
+viu, pessoal? Se olha para a microbacia e
+00:07:54 olha a declividade média, se essa
+declividade média dessa microbiacia for
+00:07:59 inferior a 15%, então o método vai
+recomendar florestar, no mínimo, 25%.
+00:08:08 Tranquilo? Agora, se olha para uma
+microbacia, se observa que a declividade
+00:08:16 média dela é igual ou superior a 15%, aí o
+mínimo do nosso reflorestamento aqui, ou
+00:08:27 do nosso florestamento, vai ser de quanto?
+50%. A lógica aqui, pessoal, é uma lógica
+00:08:35 bem intuitiva. Eu não sei se você pegou
+isso, mas é o seguinte. Quanto mais
+                             8 / 33
+00:08:41 inclinado o terreno, maior é o risco do
+quê? De erosão e de enxurrada. Quanto mais
+00:08:49 inclinado o terreno, menor vai ser a
+infiltração da água no solo. Então,
+00:08:57 precisa ter mais floresta para proteger
+essa bacia hidrográfica. Tranquilo? E ó,
+00:09:05 muito cuidado, porque tem um detalhe aqui
+que eu falei para vocês. Nós estamos
+00:09:09 falando de média da microbacia, e não da
+média ali de cada talhão. É a média da
+00:09:19 declividade ali da microbacia. Tranquilo?
+Bom, dito isso, pessoal, a gente tem que
+00:09:30 resolver questão de concurso público, para
+que a gente possa ver como isso vai ser
+00:09:34 aplicado de forma palpável ali na nossa
+prova. Certinho? Vamos lá. Resolve a
+00:09:40 questão, na sequência a gente resolve ela
+juntos. Bom, se você já resolveu, agora é
+00:09:51 hora da gente resolver essa questão
+juntos. Olha só, a questão diz o seguinte.
+                             9 / 33
+00:09:57 Ao realizar planejamento do uso da terra
+em uma bacia hidrográfica, com áreas
+00:10:01 agrícolas e florestais, é prática ou são
+práticas conservacionistas indispensáveis.
+00:10:11 Alternativa de letra A. A supressão
+completa da mata ciliar e o uso irrestrito
+00:10:23 de fertilizantes como forma de
+proporcionar rápido crescimento e
+00:10:28 desenvolvimento da vegetação rasteira. E
+aí pessoal, certo ou errado? Errado, né
+00:10:32 pessoal. A alternativa está incorreta
+justamente porque essa supressão completa
+00:10:38 da mata ciliar compromete quem? A proteção
+das margens, a proteção dos custos da
+00:10:45 água, favorece quem? Erosão. Planejamento
+conservacionista, a gente sempre busca o
+00:10:52 quê? Reduzir o máximo possível a erosão,
+reduzir a enxurrada, reduzir o
+00:10:57 assoreamento, porque tudo isso vai levar
+ao que é a perca da biodiversidade. Então,
+                            10 / 33
+00:11:03 além disso, a alternativa ainda fala de um
+uso irrestrito de fertilizantes, e isso
+00:11:08 pode provocar contaminação dos custos
+hídricos, pode levar a eutrofização,
+00:11:14 certo? Então, a alternativa de letra A,
+totalmente incorreta. Alternativa de letra
+00:11:20 B, a agricultura em faixa de 100 metros de
+largura em toda a margem dos cursos d'
+00:11:27 água, independentemente do porte do rio.
+Certo ou errado, pessoal? Incorreto. Por
+00:11:35 que está incorreto? Porque a agricultura
+nas margens dos cursos d' água, pessoal,
+00:11:39 elas precisam respeitar a legislação,
+precisam respeitar as áreas de preservação
+00:11:45 permanente. E a legislação voltada à APP,
+a área de preservação permanente, ela vai
+00:11:54 variar conforme a largura dos cursos d'
+água. Então ela vai dizer qual que é a
+00:12:04 largura, quanto que vai ser permitido a
+agricultura. Certo? Então ela tem
+                            11 / 33
+00:12:12 critérios e esses critérios vão variar de
+acordo com a largura dos rios. Então,
+00:12:20 dizer que essa faixa agrícola de 100
+metros em todas as margens deixa essa
+00:12:25 alternativa aqui incorreta. Tranquilo?
+Alternativa de letra C. Pessoal, essa
+00:12:41 alternativa aqui, ela está correta, porque
+são práticas conservacionistas
+00:12:47 indispensáveis. O que é manter as áreas de
+preservação permanente, é indispensável, o
+00:12:53 reflorestamento ali nas margens, para
+proteger os cursos d' água contra o
+00:13:00 assoreamento, práticas de terraceamento
+nas encostas, são muito utilizados para
+00:13:05 proteger esses cursos d' água. Então, a
+alternativa de letra C, ela traz exemplos
+00:13:10 práticos aqui de práticas
+conservacionistas que são realmente
+00:13:16 indispensáveis para realizar ali o
+planejamento do uso da terra de uma bacia
+                            12 / 33
+00:13:25 hidrográfica. Perfeito? Alternativa de
+letra D, uso intensivo de terraços nos
+00:13:32 meandros do rio, nas áreas de remanso e
+nas áreas costeiras. Pessoal, está errado,
+00:13:39 porque o terraceamento é uma prática
+mecânica, como a gente já viu, corta aqui
+00:13:43 para mim. Terraceamento é uma prática
+mecânica, a gente já estudou sobre ele,
+00:13:47 né? E ele vai utilizar principalmente o
+quê? Ele vai ser utilizado principalmente
+00:13:53 em terrenos agrícolas, terrenos que tenham
+ali declividade adequada. O terraceamento,
+00:14:00 vamos recordar aqui, ele é utilizado para
+quê? Para interceptar e para controlar o
+00:14:05 escoamento superficial. Ele não vai ser
+destinado ali ao uso intensivo em meandros
+00:14:12 de rios, áreas de remanso ou então regiões
+costeiras, porque essas áreas apresentam
+00:14:20 dinâmicas hidrológicas muito específicas.
+Tranquilo? Então esse é o erro aí da
+                            13 / 33
+00:14:27 alternativa de letra D. Alternativa de
+letra E, permitir desmatamento nas áreas
+00:14:32 de preservação permanente, desde que haja
+compensação em local distinto, com as
+00:14:38 mesmas características da área original.
+Errado, né pessoal? Errado porque o
+00:14:43 desmatamento em áreas de preservação
+permanente não pode ser autorizado
+00:14:47 simplesmente mediante ali uma compensação
+ambiental em uma outra localidade.
+00:14:52 Tranquilo? Então também está errado. O
+gabarito aqui, de fato, é a alternativa de
+00:14:58 letra C. Vamos conferir aqui, justamente,
+olha só. Seguindo, pessoal, agora... Nós
+00:15:05 vamos falar que um planejamento
+conservacionista, para ele ser completo,
+00:15:15 ele não vai parar só no nosso diagnóstico
+físico. Ele vai precisar também de um
+00:15:22 olhar socioeconômico e de um olhar
+ambiental. E aí vão entrar esses nossos
+                            14 / 33
+00:15:26 dois diagnósticos. O diagnóstico
+socioeconômico, que vai ser chamado de
+00:15:32 DSE, é que vai avaliar as condições
+econômicas das pessoas que vivem ali
+00:15:38 naquela bacia hidrográfica. Então qual é o
+intuito aqui? É observar a renda, a
+00:15:45 infraestrutura, as formas de produção que
+são praticadas ali por aquelas
+00:15:49 comunidades. É justamente o que essa
+imagem está mostrando aqui para vocês,
+00:15:56 esse primeiro painel aqui. Então vai olhar
+as pessoas. E por que isso é importante?
+00:16:03 Porque um plano pessoal, um plano
+tecnicamente perfeito, só que o agricultor
+00:16:10 não tenha condições de pagar por aquele
+plano, ou se for de graça, mas ele não tem
+00:16:16 condição de executar aquele plano, é um
+plano que vai ficar só no papel, então não
+00:16:22 vai adiantar muito. Então, por isso, que
+todo plano precisa olhar essas três
+                            15 / 33
+00:16:32 vertentes. Precisa olhar para um
+diagnóstico físico, que é o primeiro que
+00:16:37 deve ser observado, depois o diagnóstico
+socioeconômico e, por último, ainda um
+00:16:45 diagnóstico ambiental. No diagnóstico
+ambiental vai se avaliar o quê? São
+00:16:51 condições mais amplas da bacia, como, por
+exemplo, a qualidade dos remanescentes de
+00:16:58 vegetação nativa, a própria situação geral
+dos recursos naturais, é olhar para a
+00:17:06 natureza, para a parte ambiental mesmo da
+bacia. Então, veja, nós temos DFC, que vai
+00:17:13 olhar quem? O terreno, vai olhar a parte
+física. E aí nós temos o DSE, que vai ter
+00:17:20 um olhar mais voltado para as pessoas. É o
+diagnóstico socioeconômico. E aí a gente
+00:17:27 tem o nosso DA, o nosso diagnóstico
+ambiental, que vai olhar o meio ambiente
+00:17:32 como um todo. É como se fossem ali três
+lentes que vão ser usadas em conjunto,
+                            16 / 33
+00:17:38 justamente para enxergar a mesma bacia
+hidrográfica. Agora, pessoal, a gente tem
+00:17:45 que pegar esses três diagnósticos e
+juntá-los, porque não vão ficar soltos.
+00:17:50 Eles vão ser combinados num índice. Esse
+índice vai ser chamado de roda-viva de
+00:17:58 deterioração da ambiência. Exatamente essa
+imagem que eu trouxe aqui para vocês. Olha
+00:18:07 só. Essa roda vai ser dividida em três
+partes. Quem são as três partes? DFC, DSE
+00:18:17 e DA. Perfeito? E aí, no centro, vai estar
+quem? A deterioração de ambiência. Então,
+00:18:28 cada diagnóstico vai gerar um percentual
+de deterioração. E esse percentual é da
+00:18:35 deterioração da sub-bacia, viu, pessoal? É
+um cálculo relativamente muito simples de
+00:18:42 ser feito. Por quê? A deterioração de
+ambiência vai ser uma média simples desses
+00:18:49 três percentuais. Então, primeiro se soma
+e depois se divide por três. E aqui é um
+                            17 / 33
+00:18:56 ponto que, às vezes, as bancas gostam de
+explorar, viu, pessoal? Porque é uma média
+00:19:01 simples. Ser uma média simples significa o
+quê? Que nenhum desses diagnósticos vai
+00:19:07 pesar mais do que o outro. O diagnóstico
+físico, o diagnóstico socioeconômico e o
+00:19:13 diagnóstico ambiental, eles têm o mesmo
+peso. Justamente porque são as três
+00:19:19 dimensões que vão estar... Interligadas.
+Vamos aprender a fazer esse cálculo aqui.
+00:19:27 É muito simples, viu, pessoal? Caso
+apareça aí numa questão de concurso
+00:19:32 público para você, você já vai saber fazer
+esse cálculo. Bom, primeiro, o que é que
+00:19:36 se faz? Se identifica os dados. Nós
+temos... Aí, eu trouxe aqui dados para
+00:19:42 exemplificar, viu, pessoal? Nós temos um
+DFC de... Deixa eu ampliar essa imagem
+00:19:48 para melhorar para a tua visualização, né?
+Nós temos um DFC de 67, 60%, um DSE de 78,
+                            18 / 33
+00:19:56 60% e um DA de 40, 60%. Então, eu vou
+pegar e fazer a média simples. Como é a
+00:20:04 média simples? DFC mais DSE mais DA
+dividido por 3. Qual é o resultado que eu
+00:20:11 vou ter aqui? O meu resultado vai ser 62,
+27%. Aí eu vou ter que interpretar isso,
+00:20:22 né, pessoal? Porque a média, ela sempre
+vai ficar entre quem? Entre o menor valor
+00:20:29 e o maior valor, perfeito? O resultado da
+minha deterioração de ambiência estimada
+00:20:36 foi de quanto? De 62, 27 para a minha
+sub-bacia. Qual que é o pulo do gato que
+00:20:44 eu tenho que levar em consideração aqui?
+Que o diagnóstico com maior deterioração
+00:20:48 geralmente vai ser o socioeconômico, e ele
+vai indicar onde o plano precisa
+00:20:57 concentrar mais forças. Perfeito? Isso
+aqui é só um pulo do gato para você, viu,
+00:21:03 gente? Mas o cálculo é feito dessa forma
+aqui que eu estou mostrando para vocês.
+                            19 / 33
+00:21:08 Tranquilo? Corta aqui para mim. Tenho
+certeza que você aprendeu a fazer esse
+00:21:13 cálculo. O cálculo é relativamente bem
+simples. Vamos fazer questão de concurso
+00:21:17 público? Resolve essa questão aí. Na
+sequência, a gente resolve ela juntos.
+00:21:29 Bom, se você já resolveu, agora é a hora
+da gente resolver essa questão juntos. E a
+00:21:34 questão diz o seguinte, olha só. Sobre o
+conceito de manejo integrado de bacias
+00:21:39 ideográficas, assinale a alternativa
+incorreta. Veja, está me pedindo a
+00:21:44 alternativa incorreta. A alternativa de
+letra A. Pessoal, isso aqui está errado.
+00:21:59 Se está errado, corta aqui para mim, se
+está errado é o nosso gabarito. Por quê?
+00:22:04 Por que está incorreto? Porque o manejo
+integrado de bacias ideográficas não
+00:22:11 considera as propriedades rurais de forma
+isolada. Então, a gente viu que a bacia
+                            20 / 33
+00:22:18 hidrográfica vai ser a nossa unidade
+territorial de planejamento, porque as
+00:22:23 atividades vão ser realizadas... As
+atividades precisam ser realizadas numa
+00:22:29 visão macro. Se elas forem realizadas
+apenas em uma propriedade, isso pode
+00:22:34 afetar outras propriedades. Exatamente
+aquilo que a gente viu dos nossos dois
+00:22:39 produtores. O nosso produtor Estrela
+fazendo tudo certo, mas a propriedade dele
+00:22:43 estava sendo afetada pelo produtor que
+estava acima dele, porque aquele produtor
+00:22:49 não estava fazendo, não estava praticando
+ali, utilizando práticas conservacionistas
+00:22:54 no seu plantio. E isso prejudicou aquele
+produtor que estava usando ali as práticas
+00:23:00 conservacionistas. Então, veja, as
+práticas conservacionistas, elas precisam
+00:23:07 ser planejadas de maneira integrada. Mesmo
+que elas sejam aplicadas... Na
+                            21 / 33
+00:23:15 propriedade, mas quando vai se planejar,
+precisa se planejar de maneira integrada.
+00:23:22 Então, a alternativa de letra A vai ser o
+nosso gabarito. Se a gente for observar as
+00:23:28 outras afirmativas aqui, olha só.
+Alternativa de letra B. O manejo integrado
+00:23:32 visa permitir a produção sustentável,
+sendo o uso da bacia hidrográfica
+00:23:37 compatível com a produção e conservação do
+meio ambiente. Perfeito. Alternativa de
+00:23:42 letra C. O planejamento socioeconômico
+ambiental das bacias hidrográficas é
+00:23:47 imprescindível para o gerenciamento de uma
+unidade. Tranquilo. Alternativa de letra
+00:23:54 D. Cada gleba ou subbacia da propriedade
+deve ser explorada conforme a sua
+00:24:02 capacidade de uso para mata, pastagens e
+ou lavouras. Tranquilo. Muito bom isso
+00:24:10 aqui, viu, pessoal? É justamente o uso de
+cada gleba, de cada área ali da
+                            22 / 33
+00:24:17 propriedade deve respeitar a sua
+capacidade de uso e os seus limites
+00:24:23 naturais. E aqui que a gente observa quem?
+Declividade, produtividade, profundidade
+00:24:29 do solo, drenagem, suscetibilidade daquela
+área à erosão, e é justamente assim que
+00:24:37 deve ser feito. Por isso que a alternativa
+de letra D está correta. Alternativa de
+00:24:41 letra E. O manejo integrado da bacia
+hidrográfica prevê o manejo sustentável em
+00:24:47 que se produz para o presente sem
+comprometer a habilidade de gerações
+00:24:52 futuras, de seguir usando os recursos
+naturais. Perfeito, pessoal! Essa
+00:25:00 alternativa E fala aqui desse manejo
+integrado, que está fundamentado no quê?
+00:25:07 Desenvolvimento sustentável. Então a
+alternativa de letra E, trocando em miúdos
+00:25:12 aqui, fala no desenvolvimento sustentável.
+Então, de fato, a única alternativa errada
+                            23 / 33
+00:25:17 aqui é a de letra A. Vamos ver aqui,
+justamente. Então, se é a errada, é o
+00:25:22 nosso gabarito. Pessoal, seguindo aqui.
+Agora a gente vai falar sobre a bacia
+00:25:27 hidrográfica como unidade territorial.
+Surge aquela pergunta que amarra tudo, né?
+00:25:35 Professor, por que planejar por bacia
+hidrográfica e não por propriedade? Tem
+00:25:41 aluno que não se conforma. Ele pensa, não,
+mas eu trabalho numa propriedade. A bacia
+00:25:47 hidrográfica é muito grande, não vai
+afetar. Então eu tenho que fazer o meu
+00:25:53 planejamento ali por propriedade. O
+planejamento precisa ser por propriedade.
+00:25:59 O município não planeja ali, nos seus
+limites municipais? Por que para fazer
+00:26:04 esse planejamento agora, um planejamento
+conservacionista, tem que levar em
+00:26:08 consideração uma bacia? Vamos entender.
+Calma, calma. Vamos entender isso aí. Olha
+                            24 / 33
+00:26:13 só. Pessoal, primeiramente, o que é uma
+bacia hidrográfica? Bacia hidrográfica é
+00:26:21 toda a área que drena a água da chuva para
+um mesmo rio. Perfeito? Então, ela vai ser
+00:26:30 limitada por quem? Pelos divisores de
+água. Quem são os divisores de água da
+00:26:35 bacia hidrográfica? São as partes mais
+altas do relevo. Olha a nossa imagem aí.
+00:26:45 Essas linhas, essa linha aqui, corresponde
+a quem? O divisor de águas, que é a parte
+00:26:54 mais alta do relevo. Nós temos essas
+linhas tracejadas. Essas linhas tracejadas
+00:27:01 aqui, pessoal, quem são elas? Elas estão
+divididas, dividindo ali as micro-bacias.
+00:27:10 E toda a água está convergindo para quem?
+Para uma única saída, que é o exutório.
+00:27:18 Então veja, essas aqui você tem que, corta
+aqui para mim. Quando falar de bacia
+00:27:28 hidrográfica, você não pode esquecer do
+divisor de água, das micro-bacias e do
+                            25 / 33
+00:27:35 exutório. Pessoal, escolher a bacia
+hidrográfica não é algo arbitrário, porque
+00:27:41 a bacia hidrográfica é uma unidade
+natural. Então a gente pega os efeitos da
+00:27:49 erosão, do escoamento... E a gente vai ver
+o quê? Que eles vão aparecer toda vez de
+00:27:58 forma integrada. E aí, como é que a gente
+pode mensurar? Por exemplo, é possível
+00:28:05 mensurar quanto de sedimento uma região
+produz? Claro que é possível. Sabe como é
+00:28:12 que faz isso? Vai pegar lá no exutório.
+Vai medir lá na saída, lá no exutório,
+00:28:22 quanto de sedimento. Vai sair lá. Então é
+lá que faz essa medição. Porque vai
+00:28:27 convergir tudo para o mesmo lugar. Está
+entendendo a importância de se utilizar a
+00:28:33 bacia hidrográfica como unidade? Pessoal,
+o pensamento é muito simples aqui. O que
+00:28:41 acontece lá no alto da bacia vai afetar de
+forma inevitável quem está lá embaixo, o
+                            26 / 33
+00:28:47 que acontece lá embaixo no rio. Mais uma
+vez, eu volto ao exemplo inicial do nosso
+00:28:53 bloco, quando a gente mostrou aquelas duas
+propriedades. Então, veja, tudo o que está
+00:29:00 acontecendo em cima consequentemente afeta
+quem está embaixo, viu? Se você se deparar
+00:29:07 com uma questão de concurso público que
+peça para você justificar o planejamento
+00:29:13 por bacia, a resposta que você tem que dar
+sempre está alinhada nisso aqui, que a
+00:29:20 bacia, como unidade física, é justamente
+ela em que a água, o solo e o uso da terra
+00:29:28 vão estar interagindo, eles se integram,
+independentemente dos limites das
+00:29:34 propriedades, porque, como eu falei para
+vocês, a água não respeita uma cerca. Ela
+00:29:42 respeita o quê? Ela vai respeitar o relevo
+da bacia hidrográfica, tranquilo? Bom,
+00:29:55 agora, pessoal, para fechar aqui, a gente
+precisa ver um contexto institucional
+                            27 / 33
+00:30:02 brasileiro sobre os programas de
+microbacias hidrográficas. Aqui é bem
+00:30:07 simples, isso aqui é só para que vocês
+tenham essa noção. No Brasil, o
+00:30:12 reconhecimento oficial, pessoal, dessa
+lógica de bacia hidrográfica é recente,
+00:30:19 viu? O planejamento mais sistematizado, o
+espaço rural, ganhou um alcance maior a
+00:30:27 partir de quando? De 1987, que foi lá que
+foi criado o Programa Nacional das
+00:30:33 Microbacias Hidrográficas, a partir do
+decreto 94. 076, de 5 de março de 87, de
+00:30:44 1987. E a partir daí, os estados foram
+criando os seus próprios programas de
+00:30:51 microbacias. Pessoal, isso consolidou a
+Microbacia, que é uma subdivisão de uma
+00:31:02 bacia maior, como a gente viu no slide
+anterior, como a unidade técnica de
+00:31:07 planejamento rural no nosso país. Então,
+veja que existe esse marco histórico. A
+                            28 / 33
+00:31:18 partir de 87, de 1987, os programas de
+Microbacias foram sendo reformulados,
+00:31:24 alguns foram sendo substituídos por outras
+iniciativas, mas o marco histórico
+00:31:30 acontece lá em 1987. Bom, agora vamos
+resolver questão de concurso público?
+00:31:38 Vamos fazer mais uma questão antes de
+finalizarmos a aula? Resolve essa questão
+00:31:43 aí para a gente. Agora nós vamos resolver
+elas juntos. Olha só, a questão diz o
+00:31:53 seguinte. Uma bacia hidrográfica é uma
+porção geográfica delimitada por divisores
+00:31:58 de água, englobando toda a área de
+drenagem de um curso d' água. É uma
+00:32:03 unidade geográfica natural e seus limites
+foram estabelecidos pelo escoamento das
+00:32:08 águas sobre a superfície ao longo do
+tempo. É, portanto, o resultado da
+00:32:15 interação da água com outros recursos
+naturais. As microbacias hidrográficas
+                            29 / 33
+00:32:20 integradas representam unidades de
+planejamento ambiental e agrícola,
+00:32:26 permitindo organizar ações de conservação
+do solo e da água de forma coordenada. Em
+00:32:33 relação ao exposto, assinale a alternativa
+correta. Alternativa de letra A. Uma
+00:32:38 microbacia integrada é definida apenas
+pela presença de rios de grande porte.
+00:32:45 Errado. A gente falou ali que a
+microbacia... Ela vai ser definida por
+00:32:51 quem? Pela área de drenagem que vai ser
+delimitada por divisores de água, na qual
+00:32:58 o escoamento vai convergir para um ponto
+de saída comum. Nas microbacias, o pessoal
+00:33:06 pode apresentar ali pequenos rios,
+pequenos córregos e nascentes. Então,
+00:33:13 dizer que é ali pela presença de rios de
+grande porte é incorreto, viu? Alternativa
+00:33:19 de letra B. A delimitação de uma
+microbacia ocorre de forma aleatória, sem
+                            30 / 33
+00:33:28 relação com o relevo ou a drenagem
+natural. E aí, pessoal, o que você acha?
+00:33:33 Incorreto também, né? Pelo que a gente viu
+aqui, está incorreto, porque a delimitação
+00:33:37 de uma bacia não vai ocorrer de forma
+aleatória. Os limites delas vão ser
+00:33:43 delimitados principalmente através de
+quem? Do relevo. Por meio de quem? Dos
+00:33:49 divisores topográficos da água, que vão
+separar as áreas de drenagem diferentes,
+00:33:56 distintas. Alternativa de letra C.
+Microbacias integradas são utilizadas
+00:34:04 somente para fins urbanos, não tendo
+relação com atividades rurais. Incorreta,
+00:34:09 pessoal. Extremamente errado isso aqui.
+Elas também constituem as microbacias
+00:34:15 importantes de planejamento rural, porque
+as microbacias permitem organizar as
+00:34:21 atividades agropecuárias, permite ter essa
+visão de conservação do solo, de proteção
+                            31 / 33
+00:34:26 de nascentes, de controle dos processos
+erosivos. Então, dizer que elas não têm
+00:34:33 relação com atividades rurais é um erro
+tremendo aqui. Alternativa de letra D.
+00:34:46 promovendo o uso sustentável dos recursos
+naturais da área. Perfeito. Nosso gabarito
+00:34:52 alternativa de letra D. Vamos ver aqui.
+Justamente a alternativa de letra D é o
+00:34:59 nosso gabarito. Pessoal, agora nós
+finalizamos essa aula. Eu espero que você
+00:35:04 tenha compreendido. Se você ficou com
+alguma dúvida relacionada a esta aula em
+00:35:10 específico, pode estar mandando mensagem
+para mim. Manda a tua dúvida no fórum de
+00:35:15 dúvidas. Mas qualquer outra pergunta...
+Você pode ficar, tenha a liberdade de
+00:35:20 entrar em contato comigo através do meu
+Instagram, arroba profedivanio. agro.
+00:35:27 Forte abraço e até uma próxima aula, viu
+pessoal?
+                            32 / 33
+00:35:30 ?Música?
+Powered by TCPDF (www.tcpdf.org)
+                            33 / 33

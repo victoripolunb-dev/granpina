@@ -1,0 +1,84 @@
+D|RELEMBRANDO
+T!|Práticas conservacionistas isoladas são insuficientes. O planejamento conservacionista organiza essas práticas em etapas e abrange também o tratamento de áreas já degradadas.
+H|Diagnóstico Físico-Conservacionista
+T|O Diagnóstico Físico-Conservacionista (DFC) é um dos métodos de referência para diagnosticar o meio físico no planejamento conservacionista. Surgiu da metodologia do Serviço de Conservação de Solos dos Estados Unidos e foi adaptado para aplicação em bacias hidrográficas brasileiras, com uso no Rio Grande do Sul.
+T|É o primeiro diagnóstico no planejamento da bacia hidrográfica, pois o meio físico serve de base às demais avaliações. Antes de examinar a renda, a infraestrutura e a qualidade ambiental, é preciso conhecer as condições do solo, do relevo, da cobertura e da água da bacia.
+D|ATENÇÃO
+T!|O DFC é um método específico e foi apresentado como o mais conhecido na literatura técnica sobre manejo de bacias hidrográficas. Para responder a questões sobre seus detalhes, deve-se consultar o edital e identificar a referência adotada pela banca. A resolução de questões anteriores, por exemplo, da FGV ou do Cebraspe, ajuda a reconhecer a metodologia adotada.
+S|Objetivo geral e objetivos específicos
+T|O objetivo geral do DFC é reunir informações para subsidiar a retenção e o controle da água da chuva. [5]
+T|O diagnóstico é realizado por microbacias dentro de uma sub-bacia, em escalas sucessivas. A bacia divide-se em sub-bacias, que, por sua vez, se dividem em microbacias, como bonecas russas encaixadas umas nas outras.
+T|O primeiro objetivo específico é mapear as terras mais propícias à agricultura, ao florestamento e à pastagem e identificar as que devem permanecer florestadas. Em seguida, deve-se recomendar florestamentos e operações que favoreçam a infiltração de água no solo. O terceiro é fornecer subsídios para o controle da erosão, das secas, das enchentes e do assoreamento ao longo da bacia.
+T|A infiltração da água da chuva reduz a enxurrada, abastece o lençol freático e contribui para alimentar os rios principalmente na época seca. Também reduz o transporte de solo pela água. Dessa forma, conservar o solo contribui para a conservação da água.
+S|Florestamento mínimo por declividade
+T|Quando a declividade média da microbacia é inferior a 15%, o DFC recomenda o florestamento de pelo menos 25% da área. Quando a declividade média é igual ou superior a 15%, o mínimo recomendado é de 50% da área.
+T|Em terrenos mais inclinados, há maior risco de erosão e enxurrada e menor infiltração de água, o que justifica maior cobertura florestal para proteger a bacia.
+D|ATENÇÃO
+T!|Para aplicar o critério, considera-se a declividade média da microbacia como um todo.
+D|DIRETO DO CONCURSO
+Q|1. (2025/INSTITUTO AOCP/PREFEITURA DE JOINVILLE - SC/ENGENHEIRO FLORESTAL) Ao realizar planejamento do uso da terra em uma bacia hidrográfica com áreas agrícolas e florestais, é(são) prática(s) conservacionista(s) indispensável(is): [10]
+A|a. supressão completa de mata ciliar e uso irrestrito de fertilizantes como forma de proporcionar rápido crescimento e desenvolvimento da vegetação rasteira.
+A|b. agricultura em faixas de 100 m de largura em toda margem de cursos d’água, independentemente do porte do rio.
+A|c. manutenção de Áreas de Preservação Permanente (APP), reflorestamentos nas margens e práticas de terraceamento nas encostas.
+A|d. uso intensivo de terraço nos meandros do rio, nas áreas de remanso e nas áreas costeiras.
+A|e. permitir desmatamento nas APP desde que haja compensação em local distinto, com as mesmas características da área original.
+D|COMENTÁRIO
+C|a. A supressão da mata ciliar compromete a proteção das margens e dos cursos d’água, favorecendo a erosão. O planejamento conservacionista busca reduzir a erosão, a enxurrada e o assoreamento, processos que contribuem para a perda de biodiversidade. O uso irrestrito de fertilizantes pode contaminar os cursos d’água e provocar eutrofização.
+C|b. A agricultura nas margens dos cursos d’água deve respeitar as áreas de preservação permanente e a legislação aplicável. Os critérios legais variam conforme a largura do curso d’água.
+C|c. A manutenção de áreas de preservação permanente e o reflorestamento das margens ajudam a proteger os cursos d’água do assoreamento. O terraceamento nas encostas também é empregado para proteger esses cursos.
+C|d. O terraceamento é uma prática mecânica usada principalmente em terrenos agrícolas com declividade adequada para interceptar e controlar o escoamento superficial. O uso intensivo de terraços é inadequado em meandros de rios, áreas de remanso e regiões costeiras, que têm dinâmicas hidrológicas específicas.
+C!|e. A compensação ambiental em outra localidade, por si só, é insuficiente para autorizar desmatamento em área de preservação permanente. [15]
+H|Diagnósticos Socioeconômico e Ambiental
+T|O planejamento conservacionista requer, além do diagnóstico físico, o Diagnóstico Socioeconômico (DSE) e o Diagnóstico Ambiental (DA). O DSE examina as condições das pessoas que vivem na bacia, considerando a renda, a infraestrutura e as formas de produção das comunidades.
+T|Um plano pode ser tecnicamente adequado e ainda assim ficar no papel se o agricultor não puder pagar por ele ou não tiver condições de executá-lo, mesmo que seja gratuito.
+T|Após a avaliação física e a socioeconômica, o DA examina o meio ambiente da bacia em sentido mais amplo. Inclui a qualidade dos remanescentes de vegetação nativa e a situação geral dos recursos naturais. Os três diagnósticos funcionam como lentes complementares sobre a mesma bacia: o DFC avalia o terreno, o DSE examina as condições da população e o DA considera o ambiente como um todo.
+H|Roda Viva de Deterioração de Ambiência
+T|Os três diagnósticos são combinados no índice denominado Roda Viva de Deterioração de Ambiência. A Roda Viva é representada em três partes, correspondentes ao DFC, ao DSE e ao DA, com a deterioração de ambiência da sub-bacia no centro.
+T|Cada diagnóstico fornece um percentual de deterioração. Para obter o índice, somam-se os três percentuais e divide-se o total por três. A média é aritmética simples, com o mesmo peso para cada uma das três dimensões interligadas. Essa característica pode ser cobrada em prova.
+S|Exemplo de cálculo
+T|Em uma sub-bacia com DFC de 67,60%, DSE de 78,60% e DA de 40,60%, aplica-se a média simples aos três percentuais. [20]
+M|DFC + DSE + DA|3
+T|A soma dos valores percentuais é 186,80. Divide-se esse total por três e arredonda-se o resultado.
+M|186,80|3| = 62,266… ≈ 62,27
+T|A deterioração de ambiência estimada para a sub-bacia é de 62,27%. O resultado fica entre 40,60%, o menor valor, e 78,60%, o maior.
+D|O PULO DO GATO
+T!|O diagnóstico com o maior percentual de deterioração indica onde o plano deve concentrar esforços. Na exposição, indica-se que esse diagnóstico costuma ser o socioeconômico, como ocorre no exemplo.
+D|DIRETO DO CONCURSO
+Q|2. (2023/IBFC/SEAD-GO/TÉCNICO AMBIENTAL) Sobre o conceito de manejo integrado de bacias hidrográficas, assinale alternativa incorreta.
+A|a. O manejo integrado visa empregar práticas conservacionistas em propriedades isoladas, sendo essa a unidade hidrográfica considerada
+A|b. O manejo integrado visa permitir a produção sustentável, sendo o uso da bacia hidrográfica compatível com a produção e conservação do meio ambiente
+A|c. O planejamento socioeconômico e ambiental das bacias hidrográficas é imprescindível para o gerenciamento de uma unidade
+A|d. Cada gleba ou sub-bacia da propriedade deve ser explorada, conforme sua capacidade de uso, para mata, pastagens e/ou lavouras
+A|e. O manejo integrado da bacia hidrográfica prevê o manejo sustentável, em que se produz para o presente sem comprometer a habilidade de gerações futuras de seguir usando os recursos naturais
+D|COMENTÁRIO
+C|a. A bacia hidrográfica é a unidade territorial de planejamento. Mesmo quando executadas em cada propriedade, as práticas conservacionistas precisam ser planejadas de forma integrada, pois o que se faz em uma propriedade pode afetar outras. No exemplo dos dois produtores, a propriedade do produtor Estrela foi prejudicada pela falta de práticas conservacionistas no plantio do produtor situado a montante, apesar das medidas de conservação adotadas pelo primeiro.
+C|b. O manejo integrado compatibiliza a produção na bacia hidrográfica com a conservação do meio ambiente.
+C|c. O gerenciamento da unidade requer planejamento socioeconômico e ambiental da bacia.
+C|d. A exploração da gleba para mata, pastagem ou lavoura deve respeitar sua capacidade de uso e seus limites naturais. Avaliam-se fatores como declividade, produtividade, profundidade do solo, drenagem e suscetibilidade à erosão.
+C!|e. O manejo integrado se fundamenta no desenvolvimento sustentável, com produção no presente e preservação da possibilidade de uso dos recursos naturais pelas gerações futuras. [25]
+H|A bacia hidrográfica como unidade territorial
+T|A bacia hidrográfica é a área que drena a água da chuva para um mesmo rio. Seus limites são formados pelos divisores de águas, situados nas partes mais altas do relevo. No mapa, as linhas tracejadas separam as microbacias. A drenagem converge para uma única saída, chamada exutório.
+I|Mapa da bacia
+T|Mapa da bacia hidrográfica. Divisor de águas, Microbacia 1, Microbacia 2, Microbacia 3, Microbacia 4, Microbacia 5, Microbacia 6, Curso d’água principal e Exutório.
+T|A bacia é uma unidade natural em que os efeitos da erosão e do escoamento se manifestam de modo integrado e podem ser medidos. Por exemplo, é possível avaliar a produção de sedimentos na área a partir da quantidade que passa pelo exutório, ponto para onde converge a drenagem.
+T|O que ocorre na parte alta da bacia afeta as condições a jusante, como no exemplo dos produtores. Embora certos planejamentos sigam limites administrativos, como os de um município, a água segue o relevo. A água, o solo e o uso da terra interagem em toda a bacia, independentemente dos limites entre propriedades. Essa integração justifica a escolha da bacia hidrográfica como unidade do planejamento conservacionista.
+H|Programas de Microbacias Hidrográficas
+T|No Brasil, o reconhecimento institucional dessa forma de planejamento rural é relativamente recente. [30]
+T|O planejamento sistematizado do espaço rural ganhou alcance a partir de 1987, quando o Decreto nº 94.076, de 5 de março de 1987, criou o Programa Nacional de Microbacias Hidrográficas. Em seguida, os estados desenvolveram seus próprios programas.
+T|Esse processo consolidou a microbacia, uma subdivisão de bacia hidrográfica maior, como unidade técnica de planejamento rural. Desde 1987, houve reformulação de programas de microbacias e substituição de alguns deles por outras iniciativas.
+D|DIRETO DO CONCURSO
+Q|3. (2026/FAU/PREFEITURA DE MARMELEIRO - PR/ENGENHEIRO AGRÔNOMO) Uma bacia hidrográfica é uma porção geográfica delimitada por divisores de água, englobando toda a área de drenagem de um curso d’água. É uma unidade geográfica natural e seus limites foram estabelecidos pelo escoamento das águas sobre a superfície, ao longo do tempo. É, portanto, o resultado da interação da água com outros recursos naturais (Prudente, 2003). As microbacias hidrográficas integradas representam unidades de planejamento ambiental e agrícola, permitindo organizar ações de conservação do solo e da água de forma coordenada. Em relação ao exposto, assinale a alternativa CORRETA:
+A|a. Uma microbacia integrada é definida apenas pela presença de rios de grande porte.
+A|b. A delimitação de uma microbacia ocorre de forma aleatória, sem relação com o relevo ou a drenagem natural.
+A|c. Microbacias integradas são utilizadas somente para fins urbanos, não tendo relação com atividades rurais.
+A|d. O manejo integrado de microbacias busca conservar o solo e a água, promovendo o uso sustentável dos recursos naturais da área.
+A|e. A gestão de microbacias não considera a participação dos agricultores, pois é exclusiva de órgãos ambientais.
+D|COMENTÁRIO
+C|a. A microbacia é definida pela área de drenagem delimitada por divisores de águas, na qual o escoamento converge para um ponto de saída comum. Ela pode conter pequenos rios, córregos e nascentes.
+C|b. A delimitação segue o relevo, principalmente os divisores topográficos de águas, que separam áreas de drenagem distintas.
+C|c. As microbacias constituem unidades importantes para o planejamento rural. Permitem organizar as atividades agropecuárias e coordenar a conservação do solo, a proteção das nascentes e o controle dos processos erosivos.
+C!|d. O manejo integrado coordena ações de conservação do solo e da água para promover o uso sustentável dos recursos naturais da área. [35]
+H|Gabarito
+G|1. c
+G|2. a
+G|3. d

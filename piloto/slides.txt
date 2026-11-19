@@ -1,0 +1,222 @@
+=== 1 ===
+Agenda da Aula
+1. Diagnóstico Físico-Conservacionista (DFC): origem e objetivos;
+2. Florestamento mínimo por declividade;
+3. Diagnóstico socioeconômico e diagnóstico ambiental;
+4. Roda Viva de Deterioração de Ambiência e exemplo de cálculo;
+5. A bacia hidrográfica como unidade de planejamento;
+6. Programas de microbacias hidrográficas no Brasil;
+7. Questões de concurso.
+=== 2 ===
+O Diagnóstico Físico-Conservacionista (DFC)
+Origem e definição do método
+• Um dos métodos de referência para o
+diagnóstico da etapa física de um
+planejamento conservacionista.
+• Desenvolvido originalmente a partir de
+metodologia do Serviço de Conservação de
+Solos dos Estados Unidos.
+• Posteriormente adaptado e aplicado a
+bacias hidrográficas no Brasil (incluindo
+experiências documentadas em comitês de
+bacia do Rio Grande do Sul).
+• É o primeiro diagnóstico a ser elaborado
+em um planejamento de bacia hidrográfica,
+por sua importância primordial.
+
+=== 3 ===
+DFC: Objetivos Gerais e Específicos
+Retenção e controle das águas de chuva
+• Objetivo geral: coletar subsídios para prognosticar a retenção e o controle das águas de chuva,
+atuando por microbacias dentro de uma sub-bacia hidrográfica.
+• Utiliza técnicas de quantificação da retenção de água de chuva por infiltração, associadas a fatores
+como limpeza de canais, seleção de áreas propícias ao florestamento, faixas de contenção e controle de
+áreas agrícolas e pastoris.
+• Objetivos específicos: mapear a distribuição espacial das terras propícias à agricultura, ao
+florestamento e à pastagem; recomendar florestamentos e operações que favoreçam a infiltração; e
+subsidiar o controle da erosão, das secas, das enchentes e do assoreamento.
+=== 4 ===
+DFC: Florestamento Mínimo por Declividade
+Um critério técnico concreto do método
+• Microbacias com declividade
+média inferior a 15%: florestamento
+mínimo recomendado de 25% da
+área.
+• Microbacias com declividade
+média igual ou superior a 15%:
+florestamento mínimo recomendado
+de 50% da área.
+
+=== 5 ===
+ANO: 2025 BANCA: INSTITUTO AOCP PROVA: PREFEITURA DE 
+JOINVILLE - SC - ENGENHEIRO FLORESTAL
+Ao realizar planejamento do uso da terra em uma bacia hidrográfica com áreas agrícolas e florestais,
+é(são) prática(s) conservacionista(s) indispensável(is):
+A) supressão completa de mata ciliar e uso irrestrito de fertilizantes como forma de proporcionar rápido
+crescimento e desenvolvimento da vegetação rasteira.
+B) agricultura em faixas de 100 m de largura em toda margem de cursosd’água, independentemente do
+porte do rio.
+C) manutenção de Áreas de Preservação Permanente (APP), reflorestamentos nas margens e práticas de
+terraceamento nas encostas.
+D) uso intensivo de terraço nos meandros do rio, nas áreas de remanso e nas áreas costeiras.
+E) permitir desmatamento nas APP desde que haja compensação em local distinto, com as mesmas
+características da área original.
+=== 6 ===
+ANO: 2025 BANCA: INSTITUTO AOCP PROVA: PREFEITURA DE 
+JOINVILLE - SC - ENGENHEIRO FLORESTAL
+Ao realizar planejamento do uso da terra em uma bacia hidrográfica com áreas agrícolas e florestais,
+é(são) prática(s) conservacionista(s) indispensável(is):
+A) supressão completa de mata ciliar e uso irrestrito de fertilizantes como forma de proporcionar rápido
+crescimento e desenvolvimento da vegetação rasteira.
+B) agricultura em faixas de 100 m de largura em toda margem de cursosd’água, independentemente do
+porte do rio.
+C) manutenção de Áreas de Preservação Permanente (APP), reflorestamentos nas margens e
+práticas de terraceamento nas encostas.
+D) uso intensivo de terraço nos meandros do rio, nas áreas de remanso e nas áreas costeiras.
+E) permitir desmatamento nas APP desde que haja compensação em local distinto, com as mesmas
+características da área original.
+=== 7 ===
+Diagnóstico Socioeconômico (DSE) e Diagnóstico Ambiental 
+(DA)Completando o diagnóstico físico
+• Um planejamento conservacionista
+tecnicamente completo não se limita ao
+diagnóstico físico.
+• Diagnóstico Socioeconômico (DSE):
+avalia as condições sociais e econômicas
+da população da bacia (renda,
+infraestrutura, práticas produtivas) — a
+viabilidade de qualquer plano depende
+dessa realidade.
+• Diagnóstico Ambiental (DA): avalia a
+condição ambiental mais ampla da
+bacia, incluindo a qualidade dos
+remanescentes de vegetação nativa e a
+situação geral dos recursos naturais.
+
+=== 8 ===
+A Roda Viva de Deterioração de Ambiência
+Integrando os três diagnósticos
+• Os três diagnósticos (físico-
+conservacionista, socioeconômico e
+ambiental) são combinados em um
+índice chamado "Roda Viva de
+Deterioração de Ambiência".
+• A deterioração de ambiência de uma
+sub-bacia é calculada como a média
+simples dos percentuais de
+deterioração identificados nos três
+diagnósticos.
+
+=== 9 ===
+Roda Viva: Exemplo de Cálculo Resolvido
+Média simples dos três diagnósticos
+•  Dados da sub-bacia: DFC = 67,60%; DSE = 78,60%; DA = 40,60%.
+•  1º passo – somar: 67,60 + 78,60 + 40,60 = 186,80.
+•  2º passo – dividir pelo número de diagnósticos: 186,80 ÷3 = 62,266... ≈ 62,27%.
+•  Conferência: a média fica sempre entre o menor (40,60%) e o maior valor (78,60%).
+•  Resultado: deterioração de ambiência estimada de cerca de 62,27% para a sub-bacia.
+O PULO DO GATO!: o diagnóstico com maior deterioração (aqui, o socioeconômico) indica onde o plano precisa 
+concentrar esforços; terraços sozinhos não resolvem uma bacia em que o principal problema está nas condições de 
+quem vive e produz nela.
+
+=== 10 ===
+ANO: 2023 BANCA: IBFC PROVA: SEAD-GO - TÉCNICO 
+AMBIENTAL
+Sobre o conceito de manejo integrado de bacias hidrográficas, assinale alternativa incorreta.
+A) O manejo integrado visa empregar práticas conservacionistas em propriedades isoladas, sendo essa
+a unidade hidrográfica considerada
+B) O manejo integrado visa permitir a produção sustentável, sendo o uso da bacia hidrográfica
+compatível com a produção e conservação do meio ambiente
+C) O planejamento socioeconômico e ambiental das bacias hidrográficas é imprescindível para o
+gerenciamento de uma unidade
+D) Cada gleba ou sub-bacia da propriedade deve ser explorada, conforme sua capacidade de uso, para
+mata, pastagens e/ou lavouras
+E) O manejo integrado da bacia hidrográfica prevê o manejo sustentável, em que se produz para o
+presente sem comprometer a habilidade de gerações futuras de seguir usando os recursos naturais
+=== 11 ===
+ANO: 2023 BANCA: IBFC PROVA: SEAD-GO - TÉCNICO 
+AMBIENTAL
+Sobre o conceito de manejo integrado de bacias hidrográficas, assinale alternativa incorreta.
+A) O manejo integrado visa empregar práticas conservacionistas em propriedades isoladas, sendo
+essa a unidade hidrográfica considerada
+B) O manejo integrado visa permitir a produção sustentável, sendo o uso da bacia hidrográfica
+compatível com a produção e conservação do meio ambiente
+C) O planejamento socioeconômico e ambiental das bacias hidrográficas é imprescindível para o
+gerenciamento de uma unidade
+D) Cada gleba ou sub-bacia da propriedade deve ser explorada, conforme sua capacidade de uso, para
+mata, pastagens e/ou lavouras
+E) O manejo integrado da bacia hidrográfica prevê o manejo sustentável, em que se produz para o
+presente sem comprometer a habilidade de gerações futuras de seguir usando os recursos naturais
+=== 12 ===
+A Bacia Hidrográfica Como Unidade Territorial
+Por que planejar por bacia, e não por propriedade
+• Unidade Territorial Específica: a
+bacia hidrográfica (e suas subdivisões
+internas, as microbacias).
+• Essa escolha não é arbitrária: a
+bacia hidrográfica é a unidade natural
+na qual os efeitos físicos da erosão, do
+escoamento e do uso da terra se
+manifestam de forma integrada e
+mensurável.
+• O que ocorre no alto da bacia afeta,
+inevitavelmente, as condições
+encontradas rio abaixo.
+
+=== 13 ===
+Contexto Institucional: Programas de Microbacias Hidrográficas
+O marco de 1987 no Brasil
+• No Brasil, o reconhecimento institucional
+dessa lógica é relativamente recente.
+• Uma tentativa mais sistematizada de
+planejamento do espaço rural só alcançou
+maior alcance a partir de 1987, com a
+criação do Programa Nacional de
+Microbacias Hidrográficas (Decreto nº
+94.076, de 5/3/1987), seguido de
+programas estaduais.
+• Isso consolidou a microbacia (subdivisão
+de uma bacia hidrográfica maior) como
+unidade técnica e lógica de planejamento
+rural no país.
+
+=== 14 ===
+ANO: 2026 BANCA: FAU PROVA: PREFEITURA DE 
+MARMELEIRO - PR - ENGENHEIRO AGRÔNOMO
+Uma bacia hidrográfica é uma porção geográfica delimitada por divisores de água, englobando toda a área de
+drenagem de um curso d’água. É uma unidade geográfica natural e seus limites foram estabelecidos pelo
+escoamento das águas sobre a superfície, ao longo do tempo. É, portanto, o resultado da interação da água com
+outros recursos naturais (Prudente, 2003). As microbacias hidrográficas integradas representam unidades de
+planejamento ambiental e agrícola, permitindo organizar ações de conservação do solo e da água de forma
+coordenada. Em relação ao exposto, assinale a alternativa CORRETA:
+A) Uma microbacia integrada é definida apenas pela presença de rios de grande porte.
+B) A delimitação de uma microbacia ocorre de forma aleatória, sem relação com o relevo ou a drenagem natural.
+C) Microbacias integradas são utilizadas somente para fins urbanos, não tendo relação com atividades rurais.
+D) O manejo integrado de microbacias busca conservar o solo e a água, promovendo o uso sustentável dos
+recursos naturais da área.
+E) A gestão de microbacias não considera a participação dos agricultores, pois é exclusiva de órgãos ambientais.
+=== 15 ===
+ANO: 2026 BANCA: FAU PROVA: PREFEITURA DE 
+MARMELEIRO - PR - ENGENHEIRO AGRÔNOMO
+Uma bacia hidrográfica é uma porção geográfica delimitada por divisores de água, englobando toda a área de
+drenagem de um curso d’água. É uma unidade geográfica natural e seus limites foram estabelecidos pelo
+escoamento das águas sobre a superfície, ao longo do tempo. É, portanto, o resultado da interação da água com
+outros recursos naturais (Prudente, 2003). As microbacias hidrográficas integradas representam unidades de
+planejamento ambiental e agrícola, permitindo organizar ações de conservação do solo e da água de forma
+coordenada. Em relação ao exposto, assinale a alternativa CORRETA:
+A) Uma microbacia integrada é definida apenas pela presença de rios de grande porte.
+B) A delimitação de uma microbacia ocorre de forma aleatória, sem relação com o relevo ou a drenagem natural.
+C) Microbacias integradas são utilizadas somente para fins urbanos, não tendo relação com atividades rurais.
+D) O manejo integrado de microbacias busca conservar o solo e a água, promovendo o uso sustentável dos
+recursos naturais da área.
+E) A gestão de microbacias não considera a participação dos agricultores, pois é exclusiva de órgãos ambientais.
+=== 16 ===
+O que vimos hoje
+•  DFC: primeiro diagnóstico do planejamento da bacia; foco na retenção e no controle da 
+água da chuva.
+•  Florestamento mínimo: 25% (declividade média < 15%) ou 50% (≥ 15%), segundo o 
+método.
+•  DSE olha as pessoas; DA olha o ambiente como um todo.
+•  Roda Viva: média simples de DFC, DSE e DA, sem pesos diferentes.
+•  Bacia hidrográfica: unidade em que água, solo e uso da terra se integram.
+•  Programa Nacional de Microbacias Hidrográficas: Decreto nº 94.076/1987.

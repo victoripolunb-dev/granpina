@@ -1,0 +1,9 @@
+.gran-ambiente.json
+.venv/
+__pycache__/
+*.pyc
+/saida/
+/*.mp3
+/*.wav
+/*.pdf
+/*.docx

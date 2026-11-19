@@ -1,0 +1,79 @@
+{
+  "arquivo": "gran-amostra-estendida.wav",
+  "duracao_segundos": 70.654,
+  "idioma": "pt",
+  "segmentos": [
+    {
+      "inicio_segundos": 0.0,
+      "fim_segundos": 5.88,
+      "texto": "Nesta aula fictícia, o tema é a assinatura do pedido de revisão.",
+      "probabilidade_sem_fala": 0.009
+    },
+    {
+      "inicio_segundos": 5.88,
+      "fim_segundos": 11.12,
+      "texto": "Em regra, o pedido deve ser apresentado por escrito.",
+      "probabilidade_sem_fala": 0.009
+    },
+    {
+      "inicio_segundos": 11.12,
+      "fim_segundos": 15.04,
+      "texto": "Ana apresentou o pedido sem assinatura.",
+      "probabilidade_sem_fala": 0.009
+    },
+    {
+      "inicio_segundos": 15.04,
+      "fim_segundos": 22.28,
+      "texto": "Nesse exemplo, a comissão devolveu o formulário e concedeu oportunidade de correção.",
+      "probabilidade_sem_fala": 0.009
+    },
+    {
+      "inicio_segundos": 22.28,
+      "fim_segundos": 26.28,
+      "texto": "A devolução não equivale ao indeferimento.",
+      "probabilidade_sem_fala": 0.009
+    },
+    {
+      "inicio_segundos": 26.28,
+      "fim_segundos": 30.48,
+      "texto": "Em seguida, considerisse o caso de Paulo.",
+      "probabilidade_sem_fala": 0.007
+    },
+    {
+      "inicio_segundos": 30.48,
+      "fim_segundos": 36.88,
+      "texto": "Ele assinou o pedido, mas deixou de identificar a decisão questionada.",
+      "probabilidade_sem_fala": 0.007
+    },
+    {
+      "inicio_segundos": 36.88,
+      "fim_segundos": 42.04,
+      "texto": "A comissão solicitou que ele informasse o número do processo.",
+      "probabilidade_sem_fala": 0.007
+    },
+    {
+      "inicio_segundos": 42.04,
+      "fim_segundos": 47.76,
+      "texto": "O prazo de correção começa quando a pessoa recebe a comunicação.",
+      "probabilidade_sem_fala": 0.007
+    },
+    {
+      "inicio_segundos": 47.76,
+      "fim_segundos": 54.84,
+      "texto": "Essa ressalva é necessária para distinguir o envio da comunicação do seu recebimento.",
+      "probabilidade_sem_fala": 0.007
+    },
+    {
+      "inicio_segundos": 54.92,
+      "fim_segundos": 63.2,
+      "texto": "Por fim, o precedente fictício número 12 trata apenas da hipótese de falta de assinatura.",
+      "probabilidade_sem_fala": 0.004
+    },
+    {
+      "inicio_segundos": 63.2,
+      "fim_segundos": 70.48,
+      "texto": "A conclusão desse precedente deve ser lida dentro dos limites do exemplo apresentado.",
+      "probabilidade_sem_fala": 0.004
+    }
+  ]
+}

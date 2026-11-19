@@ -1,0 +1,285 @@
+duracao 2136.073 legenda 321 (2130.173, 2136.073) asr 274 {'inicio_segundos': 2122.12, 'fim_segundos': 2131.0, 'texto': 'do meu Instagram, arobaprofedivânio.agro. Forte abraço e até a próxima aula, viu pessoal? Até mais!', 'probabilidade_sem_fala': 0.001}
+00–5.00: 669 / 685 palavras; correspondência lexical 93.2%
+05–10.00: 557 / 563 palavras; correspondência lexical 95.9%
+10–15.00: 563 / 576 palavras; correspondência lexical 90.6%
+15–20.00: 608 / 622 palavras; correspondência lexical 93.7%
+20–25.00: 592 / 635 palavras; correspondência lexical 94.2%
+25–30.00: 590 / 594 palavras; correspondência lexical 94.6%
+30–35.00: 564 / 585 palavras; correspondência lexical 89.8%
+35–35.60: 60 / 64 palavras; correspondência lexical 88.7%
+0000.00–0011.52: Salve, salve, meu amigo conguseiro, minha amiga conguseira, seja bem-vindo, seja bem-vinda de volta.
+0011.52–0020.08: Olha só, na aula anterior você viu por que que as práticas isoladas elas não bastam e aí você
+0020.08–0027.16: conheceu os princípios e as etapas do planejamento conservacionista. Nós estudamos ali como lidar
+0027.16–0032.96: com as práticas já degradadas também, né? E fizemos questões de concurso público. Agora a gente precisa
+0032.96–0039.80: dar continuidade na nossa aula sobre planejamento conservacionista. Olha só, antes de a gente iniciar
+0039.80–0046.68: a nossa aula propriamente dita, eu quero mostrar pra vocês aqui a nossa agenda. Nós vamos começar pelo
+0046.68–0053.32: diagnóstico físico conservacionista, que é a origem do método conservacionista. Então a gente vai
+0053.32–0060.32: ver os objetivos, a gente vai ver ali um critério concreto, né? De florecitamento mínimo por declividade.
+0060.32–0069.16: Depois a gente vai ver o diagnóstico socioeconômico e em sequência o diagnóstico ambiental. Aí a
+0069.16–0079.04: gente vai olhar pra roda viva, que é a roda viva de deterioração da ambiência. E aí,
+0079.04–0084.24: quando a gente for falar da roda viva, a gente vai fazer cálculo também, viu pessoal? E aí eu vou
+0084.24–0092.36: mostrar pra vocês o passo a passo de fazer o cálculo de deterioração da ambiência. Por fim, a gente vai
+0092.36–0099.80: falar sobre bacia hidrografica, sendo ela ali a unidade de planejamento e também o marco
+0099.80–0104.60: institucional dos programas de micro-bacia no Brasil. A gente vê isso aí também quando
+0104.60–0109.40: vamos falar sobre bacia hidrografica. E ao longo do caminho o pessoal a gente resolve a questão de
+0109.40–0115.80: concurso público, justamente pra que você possa ver como esse conteúdo ele é cobrado nas provas.
+0115.80–0124.96: Perfeito? Bom, agora sim vamos seguir. Olha só. Vamos primeiro falar do diagnóstico físico
+0124.96–0132.96: conservacionista, que carinhosamente a gente vai chamá-lo daqui pra frente de DFC, Diagnóstico
+0132.96–0142.16: Conservacionista. Tranquilo? Ele é um dos métodos de referência pra fazer o diagnóstico da parte física
+0142.16–0150.48: de um planejamento conservacionista. Qual que foi a origem desse diagnóstico? Esse método, ele surgiu
+0150.48–0156.52: ali a partir da metodologia do serviço de conservação do solo lá dos Estados Unidos e o pessoal.
+0156.52–0166.04: Aí depois ele foi adaptado e aplicado para as bacias hidrograficas brasileiras. Já foi muito utilizado
+0166.04–0174.12: inclusive aí no Rio Grande do Sul. Bom, por que que o DFC vem primeiro? Nós não temos apenas o DFC,
+0174.12–0180.44: você vai ver daqui a pouquinho. Nós temos outros. Mas por que que o DFC é preciso fazer ele
+0180.44–0188.32: não? Porque o meio físico, pessoal, ele é a base de tudo. Então, antes de você discutir renda,
+0188.32–0195.28: antes de você discutir infraestrutura, antes de você observar ali a qualidade ambiental,
+0195.28–0202.40: é preciso você saber o que? Como é que tá o solo? Como é que tá o relevo? A cobertura?
+0202.40–0208.32: Como é que tá a água dessa bacia hidrografica? Então, precisa fazer esse raio x físico aí
+0208.32–0216.08: que é um método para depois olhar os outros diagnósticos. Bom, é preciso deixar também aqui
+0216.08–0224.48: um alerta bem honesto para vocês. O DFC ele é um método específico e é o método mais conhecido
+0224.48–0231.00: na literatura técnica quando a gente fala sobre manejo de bacias hidrograficas. Se a prova for
+0231.00–0238.56: de detalhes dele, você precisa conferir ali, né? Primeiro você precisa conferir o seu edital,
+0238.56–0245.16: ver qual que é a fonte que a banca, ela vai adotar, você vai precisar também olhar a profissão,
+0245.16–0249.60: não sei como é que eu vejo isso, como é que você vai ver isso? Você vai olhar questão de concurso
+0249.60–0256.48: público anterior. Se a sua banca, por exemplo, é FGV, SEBRASP, então você vai resolver muitas
+0256.48–0262.44: coisas dessa banca para que você possa perceber qual que é a metodologia que a banca tá usando,
+0262.44–0270.24: porque geralmente elas, as questões elas vão de acordo com uma metodologia. Tranquilo? Bom,
+0270.24–0276.48: dito isso, agora a gente precisa adiantar um pouquinho aqui e a gente precisa falar sobre
+0276.48–0285.68: os objetivos do DFC. Existe objetivo geral e existe objetivos específicos e aí você tem
+0285.68–0296.12: qual é qual. Quando a gente fala em DFC, o objetivo geral dele é justamente reunir informações
+0296.12–0303.52: para quê? Para a retenção, controle de água da chuva. Então essas informações, elas vão
+0303.52–0312.16: trabalhar como? Trabalhando ali por micro-bacias dentro de uma sub-bacia. É tecnicamente isso,
+0312.64–0323.48: então existe uma ideia aqui de escalas, a bacia que vai se dividir em sub-bacias, que vão se dividir em
+0323.48–0330.48: micro-bacias. É como se a gente estivesse olhando aquelas bonecas russas que ficam uma dentro da outra.
+0330.48–0339.44: Então esse é o objetivo geral, reunir informações, perfeito? Aí existem os
+0340.20–0352.32: objetivos específicos. Qual que é o objetivo específico? São três. Primeiro, precisa mapear
+0352.32–0359.72: onde estão as terras mais propícias para a agricultura, para o florestamento, para a pastagem,
+0359.72–0368.96: terras que não podem ser utilizadas, precisa ali ficar com floresta. Então segundo, precisa
+0368.96–0377.32: recomendar florestamentos e operações que favoreçam a infiltração de água no solo. E terceiro,
+0377.32–0387.48: dar base para o controle da erosão. Então o terceiro é dar essa base para quê? Controlar
+0387.48–0394.28: a erosão. Mas não é só erosão, controlar a seca, controlar as enchentes, controlar os
+0394.28–0400.80: assoreamentos que podem acontecer ali ao longo daquela bacia. Então repare que existe aqui um
+0400.80–0409.64: fio condutor. Tudo vai girar em torno de quê? Em torno de fazer a água da chuva infiltrar no solo.
+0409.64–0418.68: Então a ideia central aqui, os objetivos, eles justamente vão girar em torno disso. Fazer com
+0418.80–0428.60: a infiltração da água da chuva, que se diminua o quê? A enxurrada. Porque se você, se a água
+0428.60–0436.64: infiltra no solo, ela abastece o lençol freático, ela alimenta os rios, principalmente ali na seca,
+0436.64–0443.00: né? E o mais importante, ela não leva a terra embora. Então veja que a gente está falando de
+0443.00–0448.80: manejamento conservacionista. Então é conservar o meio ambiente, conservar o solo,
+0448.80–0457.28: conservar solo e consequentemente conservar a água. Bom, aí aqui a gente vai falar de um critério,
+0457.28–0465.88: um critério muito concreto do método DFC, que é o critério do florestamento mínimo por
+0466.00–0473.48: declividade. Esse critério é relativamente bem simples, viu, pessoal? Se olha para a microbacia
+0473.48–0481.28: e olha a declividade média, se essa declividade média dessa microbacia for inferior a 15%,
+0481.28–0492.56: então o método vai recomendar florestar no mínimo 25%. Tranquilo? Agora, se olha para uma
+0492.56–0504.80: microbacia, se observa que a declividade média dela é igual ou superior a 15%, aí o mínimo do
+0504.80–0514.24: nosso reflorestamento aqui ou do nosso florestamento, né? Vai ser de quanto? 50%. A lógica aqui,
+0514.24–0520.28: pessoal, é uma lógica assim, bem intuitiva. Eu não sei se você pegou isso, mas é o seguinte,
+0520.28–0529.16: quanto mais inclinado o terreno, maior é o risco do que? De erosão e de enxurrada. Quanto
+0529.16–0540.00: mais inclinado o terreno, menor vai ser a infiltração da água no solo. Então, precisa ter mais floresta
+0540.00–0547.60: para proteger essa bacia hidrográfica. Tranquilo? E, olha, muito cuidado, porque tem um detalhe
+0547.60–0557.48: que eu falei para vocês, nós estamos falando de média da microbacia e não da média ali de cada
+0557.48–0570.24: talhão, é a média da declividade ali da microbacia. Tranquilo? Bom, dito isso, pessoal, a gente tem
+0570.24–0575.44: que resolver questão de concurso público para que a gente possa ver como isso vai ser aplicado
+0575.44–0581.80: na forma palpável ali na nossa prova, certinho? Vamos lá. Resolve a questão, na sequência,
+0581.80–0593.20: a gente resolve ela juntos. Bom, se você já resolveu, agora é hora da gente resolver essa
+0593.20–0599.96: questão juntos. Olha só, a questão diz o seguinte, ao realizar planejamento do uso da terra em uma
+0599.96–0607.88: hidrográfica com áreas agrícolas e florestais, os práticas, é prática ou são práticas
+0607.88–0617.48: conservacionistas indispensáveis ou indispensáveis. Alternativa de letra A. A supressão completa
+0617.48–0625.48: da mata ciliar, supressão completa da mata ciliar e o uso irrestrito de fertilizantes como
+0625.48–0631.60: o de proporcionar rápido crescimento e desenvolvimento da vegetação rasteira. E aí, pessoal, certo
+0631.60–0639.00: e errado? Errado, né, pessoal? Alternativa está incorreta justamente porque essa supressão completa
+0639.00–0646.88: aí da mata ciliar compromete quem? A proteção das margens, a proteção dos cursos d'água favorece
+0646.88–0653.52: quem? Erosão. Planejamento conservacionista, a gente sempre busca o quê? Reduzir o máximo
+0653.52–0660.96: da erosão, reduzir a enxurrada, reduzir o assoriamento, né, porque tudo isso vai levar ao que é a perca
+0660.96–0668.20: da biodiversidade. Então, além disso, a alternativa ainda fala de um uso irrestrito de fertilizantes e
+0668.20–0675.76: isso pode provocar contaminação dos cursos hídricos, pode levar à eutrofização, certo? Então,
+0675.76–0683.52: a alternativa de letra A totalmente incorreta. Alternativa de letra B, a agricultura em faixa de
+0683.52–0691.96: cem metros de largura em toda a margem dos cursos d'água, independentemente do porte do rio, certo
+0691.96–0699.68: e errado, pessoal? Incorreto, porque está incorreto? Porque a agricultura nas margens dos cursos d'água,
+0699.68–0707.44: elas precisam respeitar a legislação, precisam respeitar as áreas de preservação permanente.
+0707.44–0717.44: E a legislação voltada aí à PP, a área de preservação permanente, ela vai variar ali conforme
+0717.44–0725.56: ali a largura dos cursos d'água. Então, ela vai dizer ali qual que é a largura, né,
+0725.60–0735.68: conto que vai ser permitido ali a agricultura, certo? Então, ela tem critérios e esses critérios
+0735.68–0742.84: vão variar ali de acordo com a largura dos rios. Então, dizer que essa faixa agrícola de cem
+0742.84–0749.80: metros em todas as margens deixa essa alternativa aqui incorreta. Tranquilo? Alternativa de letra C,
+0750.80–0758.68: manutenção de áreas de preservação permanente, reflorestamento nas margens e práticas de terrasseamento
+0758.68–0767.32: nas encostas. Pessoal, essa alternativa aqui, ela está correta, porque são práticas conservacionistas
+0767.32–0772.60: indispensáveis, o que é manter as áreas de preservação permanente, é indispensável,
+0773.12–0781.24: o reflorestamento ali nas margens para proteger os cursos d'água contra o assoreamento,
+0781.24–0788.20: práticas de terrasseamento nas encostas são muito utilizados para proteger aí esses cursos d'água.
+0788.20–0795.28: Então, a alternativa de letra C, ela traz exemplos práticos aqui de práticas conservacionistas
+0795.28–0805.84: que são realmente indispensáveis para realizar ali o planejamento do uso da terra de uma
+0805.84–0813.68: bacia hidrográfica, perfeito? Alternativa de letra D, uso intensivo de terrasso nos meandros do
+0813.68–0820.68: rio nas áreas de remanso e nas áreas costeiras. Pessoal, está errado? Porque o terrasseamento
+0820.68–0825.72: é uma prática mecânica, como a gente já viu, corta aqui para mim. Terrasseamento é uma prática
+0825.72–0832.60: mecânica, a gente já estudou sobre ele, né? E ele vai utilizar principalmente o que? Ele vai ser
+0832.60–0839.04: utilizado principalmente em terrenos agrícolas, terrenos que tenham ali declividade adequada.
+0839.04–0845.16: O terrasseamento, vamos recordar aqui, ele é utilizado para quê? Para interceptar e para
+0845.28–0853.44: escorrar o escoamento superficial. Ele não vai ser destinado ali ao uso intensivo em meandros de rios,
+0853.44–0861.92: áreas de remanso ou então regiões costeiras, porque essas áreas elas apresentam dinâmicas
+0861.92–0868.68: hidrológicas muito específicas. Tranquilo? Então, esse é o erro aí da alternativa de letra D.
+0868.68–0875.12: A alternativa de letra E permitida desmatamento nas áreas de preservação permanente, desde que
+0875.12–0881.52: é a compensação em local distinto com as mesmas características da área original. Errado,
+0881.52–0887.04: não é pessoal? Errado porque o desmatamento em áreas de preservação permanente não pode ser
+0887.04–0893.12: autorizado simplesmente mediante ali uma compensação ambiental em uma outra localidade.
+0893.12–0900.08: Tranquilo? Então, também está errado. O gabarito aqui de fato alternativa de letra C. Vamos
+0900.08–0909.20: ver aqui justamente. Olha só, seguindo o pessoal, agora nós vamos falar que um planejamento
+0909.20–0917.60: para ele ser, um planejamento conservacionista para ele ser completo, ele não vai parar só no
+0917.60–0924.44: nosso diagnóstico físico. Ele vai precisar também de um olhar socioeconômico e de um olhar
+0924.44–0931.24: ambiental e aí vão entrar esses nossos dois diagnósticos. O diagnóstico socioeconômico que
+0931.24–0939.56: vai ser chamado de DSE, que vai avaliar as condições econômicas das pessoas que vivem ali naquela
+0939.56–0947.60: base hidrográfica. Então, qual é o intuito aqui? É observar a renda, a infraestrutura, as formas
+0947.60–0954.84: de realização que são praticadas ali por aquelas comunidades. É justamente o que essa imagem
+0954.84–0962.00: está mostrando aqui, ó, para vocês, ó, esse primeiro panel aqui. Então, vai olhar as pessoas e
+0962.00–0969.24: por que que isso é importante? Porque um plano pessoal, um plano tecnicamente perfeito, só
+0969.24–0976.48: que o agricultor, ele não tem condições de pagar por aquele plano ou se for de graça,
+0976.48–0983.04: ele não tem condição de executar aquele plano, é um plano que vai ficar só no papel. Então,
+0983.04–0993.96: não vai adiantar muito. Então, por isso que todo plano ele precisa olhar essas três vertentes.
+0993.96–1001.72: Preciso olhar para um diagnóstico físico, que é o primeiro que se deve ser observado, depois o
+1001.72–1008.32: diagnóstico socioeconômico e por último ainda um diagnóstico ambiental. No diagnóstico ambiental vai
+1008.32–1015.36: se avaliar o que? As condições ambientais são condições mais amplas ali da bacia, como por
+1015.36–1023.48: exemplo, a qualidade dos remanescentes de vegetação nativa, a própria situação geral ali dos recursos
+1023.48–1031.80: ambientais é olhar para a natureza ali, para a parte ambiental mesmo da bacia. Então, veja, nós temos
+1031.80–1041.40: DFC, que vai olhar quem? O terreno, vai olhar a parte física e aí nós temos o DSE, que vai ter um
+1041.40–1050.00: olhar mais voltado para as pessoas, é o diagnóstico socioeconômico e aí a gente tem o nosso DA,
+1050.00–1055.80: o diagnóstico ambiental, que vai olhar o meio ambiente como um todo. É como se fossem ali três
+1055.80–1062.24: plantes que vão ser usadas em conjunto, justamente para enxergar a mesma bacia hidrográfica.
+1062.24–1070.56: Agora pessoal, a gente tem que pegar esses três diagnósticos e juntá-los, porque não vão
+1070.56–1080.24: ser soltos, eles vão ser combinados no índice. Esse índice vai ser chamado de roda viva de
+1080.24–1088.64: deterioração da ambiência. Exatamente essa imagem que eu trouxe aqui para vocês, olha só.
+1090.64–1099.64: Essa roda vai ser dividida em três partes, quem são as três partes? DFC, DSE e DAA.
+1100.24–1110.60: Perfeito? E aí no centro vai estar quem? A deterioração de ambiência. Então cada diagnóstico ele vai
+1110.60–1118.60: gerar um percentual de deterioração e esse percentual é da deterioração da subbacia,
+1118.60–1127.16: viu pessoal? É um cálculo relativamente muito simples de ser feito, porque a deterioração de
+1127.16–1133.44: ambiência vai ser uma média simples desses três percentuais. Então primeiro se soma e depois se
+1133.44–1140.72: divide por três. E aqui é um ponto que às vezes as bancas elas gostam de explorar, viu pessoal,
+1140.72–1146.64: porque é uma média simples. Ser uma média simples significa o quê? Que nenhum desses
+1146.64–1154.04: diagnósticos ele vai pesar mais do que o outro. O diagnóstico físico, o diagnóstico socioeconômico
+1154.04–1161.52: e o diagnóstico ambiental eles têm o mesmo peso, justamente porque são as três dimensões que
+1161.52–1169.08: vão estar interligadas. Vamos aprender a fazer esse cálculo aqui, é muito simples, viu pessoal?
+1169.08–1175.00: Caso apareça aí numa questão de concurso público para você, você já vai saber fazer esse cálculo.
+1175.00–1181.56: Bom, primeiro o que é que se faz? Se identifica os dados. Nós temos aí eu trouxe aqui
+1181.56–1189.08: os dados para exemplificar, viu pessoal? Nós temos um DFC de, deixa eu ampliar essa imagem para melhorar
+1189.08–1202.52: para a sua visualização. Nós temos um DFC de 67,60%, um DSE de 78,61 da de 40,60%. Então eu vou
+1202.52–1211.88: fazer a média simples. Como é a média simples? DFC mais DSE mais DA dividido por 3. Qual é o resultado
+1211.88–1223.24: que eu vou ter aqui? O meu resultado vai ser 62,27%. Aí eu vou ter que interpretar isso, né pessoal?
+1223.24–1234.20: Porque a média ela sempre vai ficar entre quem? Entre o menor valor e o maior valor. Perfeito? O resultado
+1234.20–1243.72: da minha deterioração de ambiência estimada foi de quanto? De 62,27% para a minha subbacia. Qual
+1243.72–1248.32: que é o pulo do gato que eu tenho que levar em consideração aqui? Que o diagnóstico com
+1248.32–1257.76: maior deterioração geralmente vai ser o socioeconômico, porque ele vai e ele vai indicar onde o plano
+1257.76–1264.32: precisa concentrar mais forças. Perfeito? Isso aqui é só um pulo do gato para você, viu gente?
+1264.32–1271.32: Mas o cálculo é feito dessa forma aqui que eu estou mostrando para vocês. Tranquilo? Corta aqui
+1271.32–1275.96: para mim. Tenho certeza que você aprendeu a fazer esse cálculo, é relativamente bem simples.
+1276.00–1283.36: Vamos fazer questão de concurso público? Resolve essa questão aí, na sequência a gente resolve ela
+1283.36–1294.44: juntos. Bom, se você já resolveu agora é hora da gente resolver essa questão juntos e a questão
+1294.44–1301.04: ela diz o seguinte, olha só. Sobre o conceito de manejo integrado de bacias idográficas,
+1301.04–1307.12: e olha a alternativa incorreta, veja, está me pedindo a alternativa incorreta. A alternativa de letra A.
+1307.12–1313.48: O manejo integrado visa empregar práticas conservacionistas em propriedades isoladas,
+1313.48–1320.28: sendo essa a unidade hidrográfica considerada. Pessoal, isso aqui está errado. Se está errado,
+1320.28–1325.48: corta aqui para mim. Se está errado é o nosso gabarito. Por que? Por que que está incorreto?
+1325.48–1334.36: Porque o manejo integrado de bacias hidrográficas não considera as propriedades
+1334.36–1340.72: rurais de forma isolada. Então a gente viu que a bacia hidrográfica vai ser a nossa unidade
+1340.72–1348.40: territorial de planejamento, porque as atividades, elas vão ser realizadas, as atividades,
+1348.40–1354.08: elas precisam ser realizadas numa visão macro. Se elas forem realizadas apenas em uma propriedade,
+1354.08–1359.84: isso pode afetar outras propriedades. Exatamente aquilo que a gente viu dos nossos dois produtores,
+1359.84–1364.80: o nosso produtor estrela fazendo tudo certo, mas a propriedade dele estava sendo afetada
+1364.80–1371.24: pelo produtor que estava acima dele, porque aquele produtor não estava fazendo, não estava
+1371.24–1378.68: praticando ali, utilizando práticas conservacionistas no seu plantio, e isso prejudicou aquele produtor
+1378.68–1387.68: que estava usando ali as práticas conservacionistas. Então veja, as práticas conservacionistas elas
+1387.68–1397.20: precisam ser planejadas de maneira integrada, mesmo que elas sejam aplicadas na propriedade,
+1397.20–1404.48: mas quando vai se planejar, precisa se planejar de maneira integrada. Então a alternativa de
+1404.48–1409.88: letra B vai ser o nosso gabarito. Se a gente for observar as outras afirmativas aqui, olha só,
+1409.88–1416.92: a alternativa de letra B, o manejo integrado visa permitir a produção sustentável, sendo o uso da
+1416.92–1422.56: bacia hidrográfica compatível com a produção e conservação do meu ambiente, perfeito. A
+1422.56–1427.00: alternativa de letra C, o planejamento socio-econômico ambiental das bacias
+1427.00–1432.76: hidrográficas é imprescindível para o gerenciamento de uma unidade, tranquilo.
+1433.72–1443.20: A alternativa de letra D, cada gleba ou subbacia da propriedade deve ser explorada conforme a sua
+1443.20–1451.16: capacidade de uso para mata, pastagens e ou lavouras, tranquilo, muito bom isso aqui, viu pessoal?
+1451.16–1461.44: É justamente o uso de cada gleba, de cada área da propriedade deve respeitar a sua capacidade de
+1461.44–1469.12: uso e os seus limites naturais. E aqui que a gente observa quem? Declividade, produtividade,
+1469.12–1478.08: profundidade do solo, drenagem, suscetibilidade daquela área, a erosão e é justamente assim que deve
+1478.08–1483.08: ser feito. Por isso que a alternativa de letra D está correta. A alternativa de letra E, o
+1483.08–1489.96: manejo integrado da bacia hidrográfica prevê o manejo sustentável em que se produz para o presente
+1490.00–1499.48: sem comprometer a habilidade de gerações futuras, de seguir usando os recursos naturais. Perfeito,
+1499.48–1505.72: pessoal. Essa alternativa é, fala aqui desse manejo integrado que está fundamentado no quê?
+1505.72–1513.08: Desenvolvimento sustentável. Então a alternativa de letra E, trocando em miúdos aqui,
+1513.08–1518.80: fala no desenvolvimento sustentável. Então de fato a única alternativa errada aqui é a de letra
+1518.80–1526.68: D. Vamos ver aqui justamente. Então se a errada é o nosso gabarito. Pessoal, seguindo aqui agora
+1526.68–1534.52: a gente vai falar sobre a bacia hidrográfica como unidade territorial. Surge aquela pergunta que
+1534.52–1541.40: amarra tudo, né? Professor, por que planejar por bacia hidrográfica e não por propriedade?
+1541.40–1547.84: Tem aluno que não se conforma. Ele pensa, não, mas eu trabalho numa propriedade. A
+1547.84–1554.76: bacia hidrográfica é muito grande, não vai afetar. Então eu tenho que fazer o meu planejamento ali
+1554.76–1562.40: por propriedade. O planejamento precisa ser por propriedade. O município não planeja ali nos seus
+1562.40–1568.64: limites municipais? Por que que para fazer esse planejamento agora, o planejamento conservacionista
+1568.64–1574.00: tem que levar em consideração uma bacia? Vamos entender. Calma, calma. Vamos entender isso aí.
+1574.00–1583.52: Pessoal, pessoal, primeiramente o que é uma bacia hidrográfica? Bacia hidrográfica é toda a área
+1583.52–1591.60: que drena a água da chuva para o mesmo rio, perfeito? Então ela vai ser limitada por quem?
+1591.60–1598.76: pelos divisores de água. Quem são os divisores de água da bacia hidrográfica são as partes
+1598.76–1610.76: altas do relevo. Olha a nossa imagem aí. Essas linhas aqui, essa linha aqui corresponde
+1610.76–1620.40: ao nosso divisor de águas, que é a parte mais alta do relevo. Nós temos essas linhas trasejadas.
+1620.52–1630.52: Essas linhas trasejadas aqui, pessoal, quem são elas? Elas estão divididas as micro, dividindo ali
+1630.52–1639.76: as micro bacias e toda a água ela está convergindo para quem? Para uma única saída, que é o exutório.
+1639.76–1649.68: Então veja. Essas aqui você tem que cortar aqui para mim. Quando falar de bacia hidrográfica você
+1649.68–1660.48: pode esquecer do divisor de água das micro bacias e do exutório. Pessoal, escolher a bacia
+1660.48–1667.44: hidrográfica não é algo arbitrário, porque a bacia hidrográfica ela é uma unidade natural.
+1667.44–1676.12: Então a gente pega os efeitos da erosão do escoamento, né? E a gente vai ver o que?
+1676.16–1684.28: Que eles vão aparecer toda vez de forma integrada. E aí como é que a gente pode mensurar? Por exemplo,
+1684.28–1693.56: é possível mensurar quanto de sedimento uma região produz? Claro que é possível. Sabe como é que faz isso?
+1693.56–1703.64: Vai pegar lá no exutório. Vai medir lá na saída, lá no exutório. Quanto de sedimento
+1703.84–1709.52: vai sair lá? Então é lá que faz essa medição, porque vai convergir tudo para o mesmo lugar.
+1709.52–1717.88: Está entendendo a importância de se utilizar a bacia hidrográfica como unidade? Pessoal,
+1717.88–1725.84: o pensamento é muito simples aqui, o que acontece lá no alto da bacia vai afetar de forma
+1725.84–1731.56: inevitável quem está lá embaixo, o que acontece lá embaixo no rio. Mais uma vez eu volto
+1731.56–1738.00: para o exemplo inicial do nosso bloco, quando a gente mostrou aquelas duas propriedades. Então veja,
+1738.00–1748.16: tudo que está acontecendo em cima, consequentemente afeta quem está embaixo, viu? Se você se deparar
+1748.16–1755.96: com uma questão de concurso público que peça para você justificar o planejamento por bacia,
+1756.00–1763.04: a resposta que você tem que dar, ela tem que sempre estar alinhada nisso aqui, que a bacia como
+1763.04–1771.20: unidade física é justamente ela em que a água, o solo e o uso da terra, eles vão estar interagindo,
+1771.20–1777.88: eles se integram independentemente dos limites das propriedades, porque como eu falei para vocês,
+1778.16–1785.00: a água ela não respeita uma cerca, ela respeita o quê? Ela vai respeitar,
+1786.68–1796.36: ela vai respeitar aí o relevo da bacia hidrográfica, tranquilo? Bom, agora pessoal,
+1796.36–1805.24: para fechar aqui a gente precisa ver um contexto institucional brasileiro sobre os programas de
+1805.24–1810.48: bacias hidrográficas. Aqui é bem simples, isso aqui é só para que vocês tenham essa noção.
+1810.48–1819.64: No Brasil o reconhecimento oficial pessoal dessa lógica de bacia hidrográfica é recente,
+1819.64–1827.76: viu? O planejamento mais sistematizado do espaço rural ganhou um alcance maior a
+1827.76–1835.72: que quando, de 1987, que foi lá que foi criado o programa nacional das micro-bacias hidrográficas.
+1835.72–1848.20: A partir do decreto 94.076 de 5 de março de 1987, de 1987, e a partir daí os estados
+1848.20–1858.16: foram criando os seus próprios programas de micro-bacias. Pessoal, isso consolidou a micro-bacia,
+1858.16–1864.60: que é uma subdivisão de uma bacia maior, como a gente viu no slide anterior,
+1864.60–1876.20: como a unidade técnica de planejamento rural no nosso país. Então, veja que existe esse marco
+1876.20–1884.04: histórico. A partir de 1987, de 1987, os programas de micro-bacias foram sendo reformulados,
+1884.04–1890.96: alguns foram sendo substituídos por outras iniciativas, tranquilo, mas o marco histórico
+1890.96–1899.56: acontece lá em 1987. Bom, agora vamos resolver questão de concurso público? Vamos fazer
+1899.56–1904.08: uma questão aqui antes de a gente finalizar a nossa aula? Resolve essa questão aí pra gente.
+lacuna ASR 1904.08 1908.88
+1908.88–1915.48: Agora nós vamos resolvê-la juntos, olha só, questão diz o seguinte. Uma bacia hidrográfica é uma
+1915.48–1921.84: porção geográfica delimitada por divisores de água, englobando toda a área de drenagem de
+1921.84–1927.56: um curso d'água. É uma unidade geográfica natural e seus limites foram estabelecidos
+1927.56–1935.56: no desenvolvimento das águas sobre a superfície ao longo do tempo. É, portanto, o resultado da
+1935.56–1943.24: interação d'água com outros recursos naturais. As micro-bacias hidrográficas integradas representam
+1943.24–1949.72: unidade de planejamento ambiental e agrícola, permitindo organizar ações de conservação
+1949.72–1956.04: do solo e da água de forma coordenada em relação ao exposto a sinalha alternativa
+1956.04–1963.68: correta, alternativa de letra A. Uma micro-bacia integrada é definida apenas pela presença de
+1963.68–1972.48: rios de grande porte, errado. A gente falou ali que a micro-bacia, ela vai ser definida por quem?
+1972.48–1980.36: Pela área de drenagem que vai ser delimitada por divisores de água, na qual o escoamento ele
+1980.36–1988.80: vai convergir para um ponto de saída comum. Nas micro-bacias, pessoal, pode apresentar ali
+1988.80–1996.88: pequenos rios, pequenos córregos e nascentes, então dizer que é ali pela presença de rios de grande
+1996.88–2006.36: porte é incorreto, viu? Alternativa de letra B. A delimitação de uma micro-bacia ocorre
+2006.36–2013.56: de forma aleatória, sem relação com o relevo ou a drenagem natural. E aí pessoal, o que você acha?
+2013.56–2018.12: Incorreto também, pelo que a gente viu aqui, está incorreto porque a delimitação de uma
+2018.12–2026.04: bacia, ela não vai ocorrer de forma aleatória. Os limites delas vão ser delimitados principalmente
+2026.04–2032.76: através de quem? Do relevo por meio de quem? Dos divisores topográficos da água, que vão
+2032.76–2038.68: dar as áreas de drenagem diferentes, distintas. Alternativa de letra C.
+lacuna ASR 2038.68 2041.56
+2041.56–2047.72: Micro-bacias integradas são utilizadas somente para fins urbanos, não tendo relação com
+2047.72–2055.44: atividades rurais. Incorreta, pessoal, extremamente errado isso aqui. Elas também constituem aí as
+2055.44–2060.88: micro-bacias importantes unidades de planejamento rural, porque as micro-bacias elas permitem
+2060.88–2065.68: dar as atividades agropecuárias, permitem ter essa visão de conservação do solo,
+2065.68–2071.88: de proteção de inacentes, de controle dos processos erosivos, então dizer que elas
+2071.88–2080.40: não têm relação com atividades rurais é um erro tremendo aqui, né? Alternativa de letra D.
+2080.40–2087.92: O manejo integrado de micro-bacias busca conservar o solo e a água, promovendo o uso
+2087.92–2096.84: natural do recurso naturais da área. Perfeito. Nosso gabarito, alternativa de letra D. Vamos ver aqui,
+2096.84–2104.04: justamente a alternativa de letra D é o nosso gabarito. Pessoal, agora nós finalizamos essa aula,
+2104.04–2110.64: eu espero que você tenha compreendido se você ficou com alguma dúvida relacionada a esta aula
+2110.64–2115.88: em específico, pode estar mandando mensagem para mim, manda a tua dúvida no fórum de dúvidas.
+2115.92–2122.12: Mas qualquer outra pergunta, você pode ficar, tem a liberdade de entrar em contato comigo através
+2122.12–2131.00: do meu Instagram, arobaprofedivânio.agro. Forte abraço e até a próxima aula, viu pessoal? Até mais!

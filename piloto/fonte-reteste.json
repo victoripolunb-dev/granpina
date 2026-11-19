@@ -1,0 +1,74 @@
+[
+  {
+    "inicio": 1900,
+    "fim": 1916,
+    "gap_peak": 0.16912841796875,
+    "gap_rms": 0.02781684510409832,
+    "segmentos": [
+      [
+        1900.0,
+        1904.0,
+        "antes de a gente finalizar a nossa aula, resolve essa questão aí para a gente."
+      ],
+      [
+        1909.0,
+        1913.0,
+        "Agora nós vamos resolver ela junto, olha só, questão disso o seguinte,"
+      ],
+      [
+        1913.0,
+        1916.0,
+        "uma bacia hidrográfica é uma porção"
+      ]
+    ]
+  },
+  {
+    "inicio": 2033,
+    "fim": 2047,
+    "gap_peak": 0.502227783203125,
+    "gap_rms": 0.04364464432001114,
+    "segmentos": [
+      [
+        2033.0,
+        2037.08,
+        "as áreas de drenagem diferentes, destintas."
+      ],
+      [
+        2037.08,
+        2039.08,
+        "Alternativa de letra C."
+      ],
+      [
+        2041.58,
+        2047.08,
+        "Microbacias integradas são utilizadas somente para fins urbanos, não tendo relação..."
+      ]
+    ]
+  },
+  {
+    "inicio": 0,
+    "fim": 6,
+    "gap_peak": 0.49822998046875,
+    "gap_rms": 0.06749709695577621,
+    "segmentos": [
+      [
+        0.0,
+        6.0,
+        "Salve!"
+      ]
+    ]
+  },
+  {
+    "inicio": 2129,
+    "fim": 2136,
+    "gap_peak": 0.53466796875,
+    "gap_rms": 0.07052400708198547,
+    "segmentos": [
+      [
+        2129.0,
+        2131.0,
+        "Viu o pessoal? Até mais!"
+      ]
+    ]
+  }
+]

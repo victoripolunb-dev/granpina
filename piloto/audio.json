@@ -1,0 +1,1651 @@
+{
+  "arquivo": "Planejamento Conservacionista II.mp3",
+  "duracao_segundos": 2136.073,
+  "idioma": "pt",
+  "segmentos": [
+    {
+      "inicio_segundos": 0.0,
+      "fim_segundos": 11.52,
+      "texto": "Salve, salve, meu amigo conguseiro, minha amiga conguseira, seja bem-vindo, seja bem-vinda de volta.",
+      "probabilidade_sem_fala": 0.112
+    },
+    {
+      "inicio_segundos": 11.52,
+      "fim_segundos": 20.08,
+      "texto": "Olha só, na aula anterior você viu por que que as práticas isoladas elas não bastam e aí você",
+      "probabilidade_sem_fala": 0.112
+    },
+    {
+      "inicio_segundos": 20.08,
+      "fim_segundos": 27.16,
+      "texto": "conheceu os princípios e as etapas do planejamento conservacionista. Nós estudamos ali como lidar",
+      "probabilidade_sem_fala": 0.112
+    },
+    {
+      "inicio_segundos": 27.16,
+      "fim_segundos": 32.96,
+      "texto": "com as práticas já degradadas também, né? E fizemos questões de concurso público. Agora a gente precisa",
+      "probabilidade_sem_fala": 0.007
+    },
+    {
+      "inicio_segundos": 32.96,
+      "fim_segundos": 39.8,
+      "texto": "dar continuidade na nossa aula sobre planejamento conservacionista. Olha só, antes de a gente iniciar",
+      "probabilidade_sem_fala": 0.007
+    },
+    {
+      "inicio_segundos": 39.8,
+      "fim_segundos": 46.68,
+      "texto": "a nossa aula propriamente dita, eu quero mostrar pra vocês aqui a nossa agenda. Nós vamos começar pelo",
+      "probabilidade_sem_fala": 0.007
+    },
+    {
+      "inicio_segundos": 46.68,
+      "fim_segundos": 53.32,
+      "texto": "diagnóstico físico conservacionista, que é a origem do método conservacionista. Então a gente vai",
+      "probabilidade_sem_fala": 0.007
+    },
+    {
+      "inicio_segundos": 53.32,
+      "fim_segundos": 60.32,
+      "texto": "ver os objetivos, a gente vai ver ali um critério concreto, né? De florecitamento mínimo por declividade.",
+      "probabilidade_sem_fala": 0.022
+    },
+    {
+      "inicio_segundos": 60.32,
+      "fim_segundos": 69.16,
+      "texto": "Depois a gente vai ver o diagnóstico socioeconômico e em sequência o diagnóstico ambiental. Aí a",
+      "probabilidade_sem_fala": 0.022
+    },
+    {
+      "inicio_segundos": 69.16,
+      "fim_segundos": 79.04,
+      "texto": "gente vai olhar pra roda viva, que é a roda viva de deterioração da ambiência. E aí,",
+      "probabilidade_sem_fala": 0.022
+    },
+    {
+      "inicio_segundos": 79.04,
+      "fim_segundos": 84.24,
+      "texto": "quando a gente for falar da roda viva, a gente vai fazer cálculo também, viu pessoal? E aí eu vou",
+      "probabilidade_sem_fala": 0.032
+    },
+    {
+      "inicio_segundos": 84.24,
+      "fim_segundos": 92.36,
+      "texto": "mostrar pra vocês o passo a passo de fazer o cálculo de deterioração da ambiência. Por fim, a gente vai",
+      "probabilidade_sem_fala": 0.032
+    },
+    {
+      "inicio_segundos": 92.36,
+      "fim_segundos": 99.8,
+      "texto": "falar sobre bacia hidrografica, sendo ela ali a unidade de planejamento e também o marco",
+      "probabilidade_sem_fala": 0.032
+    },
+    {
+      "inicio_segundos": 99.8,
+      "fim_segundos": 104.6,
+      "texto": "institucional dos programas de micro-bacia no Brasil. A gente vê isso aí também quando",
+      "probabilidade_sem_fala": 0.032
+    },
+    {
+      "inicio_segundos": 104.6,
+      "fim_segundos": 109.4,
+      "texto": "vamos falar sobre bacia hidrografica. E ao longo do caminho o pessoal a gente resolve a questão de",
+      "probabilidade_sem_fala": 0.009
+    },
+    {
+      "inicio_segundos": 109.4,
+      "fim_segundos": 115.8,
+      "texto": "concurso público, justamente pra que você possa ver como esse conteúdo ele é cobrado nas provas.",
+      "probabilidade_sem_fala": 0.009
+    },
+    {
+      "inicio_segundos": 115.8,
+      "fim_segundos": 124.96,
+      "texto": "Perfeito? Bom, agora sim vamos seguir. Olha só. Vamos primeiro falar do diagnóstico físico",
+      "probabilidade_sem_fala": 0.009
+    },
+    {
+      "inicio_segundos": 124.96,
+      "fim_segundos": 132.96,
+      "texto": "conservacionista, que carinhosamente a gente vai chamá-lo daqui pra frente de DFC, Diagnóstico",
+      "probabilidade_sem_fala": 0.009
+    },
+    {
+      "inicio_segundos": 132.96,
+      "fim_segundos": 142.16,
+      "texto": "Conservacionista. Tranquilo? Ele é um dos métodos de referência pra fazer o diagnóstico da parte física",
+      "probabilidade_sem_fala": 0.013
+    },
+    {
+      "inicio_segundos": 142.16,
+      "fim_segundos": 150.48,
+      "texto": "de um planejamento conservacionista. Qual que foi a origem desse diagnóstico? Esse método, ele surgiu",
+      "probabilidade_sem_fala": 0.013
+    },
+    {
+      "inicio_segundos": 150.48,
+      "fim_segundos": 156.52,
+      "texto": "ali a partir da metodologia do serviço de conservação do solo lá dos Estados Unidos e o pessoal.",
+      "probabilidade_sem_fala": 0.013
+    },
+    {
+      "inicio_segundos": 156.52,
+      "fim_segundos": 166.04,
+      "texto": "Aí depois ele foi adaptado e aplicado para as bacias hidrograficas brasileiras. Já foi muito utilizado",
+      "probabilidade_sem_fala": 0.009
+    },
+    {
+      "inicio_segundos": 166.04,
+      "fim_segundos": 174.12,
+      "texto": "inclusive aí no Rio Grande do Sul. Bom, por que que o DFC vem primeiro? Nós não temos apenas o DFC,",
+      "probabilidade_sem_fala": 0.009
+    },
+    {
+      "inicio_segundos": 174.12,
+      "fim_segundos": 180.44,
+      "texto": "você vai ver daqui a pouquinho. Nós temos outros. Mas por que que o DFC é preciso fazer ele",
+      "probabilidade_sem_fala": 0.009
+    },
+    {
+      "inicio_segundos": 180.44,
+      "fim_segundos": 188.32,
+      "texto": "não? Porque o meio físico, pessoal, ele é a base de tudo. Então, antes de você discutir renda,",
+      "probabilidade_sem_fala": 0.032
+    },
+    {
+      "inicio_segundos": 188.32,
+      "fim_segundos": 195.28,
+      "texto": "antes de você discutir infraestrutura, antes de você observar ali a qualidade ambiental,",
+      "probabilidade_sem_fala": 0.032
+    },
+    {
+      "inicio_segundos": 195.28,
+      "fim_segundos": 202.4,
+      "texto": "é preciso você saber o que? Como é que tá o solo? Como é que tá o relevo? A cobertura?",
+      "probabilidade_sem_fala": 0.032
+    },
+    {
+      "inicio_segundos": 202.4,
+      "fim_segundos": 208.32,
+      "texto": "Como é que tá a água dessa bacia hidrografica? Então, precisa fazer esse raio x físico aí",
+      "probabilidade_sem_fala": 0.032
+    },
+    {
+      "inicio_segundos": 208.32,
+      "fim_segundos": 216.08,
+      "texto": "que é um método para depois olhar os outros diagnósticos. Bom, é preciso deixar também aqui",
+      "probabilidade_sem_fala": 0.004
+    },
+    {
+      "inicio_segundos": 216.08,
+      "fim_segundos": 224.48,
+      "texto": "um alerta bem honesto para vocês. O DFC ele é um método específico e é o método mais conhecido",
+      "probabilidade_sem_fala": 0.004
+    },
+    {
+      "inicio_segundos": 224.48,
+      "fim_segundos": 231.0,
+      "texto": "na literatura técnica quando a gente fala sobre manejo de bacias hidrograficas. Se a prova for",
+      "probabilidade_sem_fala": 0.004
+    },
+    {
+      "inicio_segundos": 231.0,
+      "fim_segundos": 238.56,
+      "texto": "de detalhes dele, você precisa conferir ali, né? Primeiro você precisa conferir o seu edital,",
+      "probabilidade_sem_fala": 0.146
+    },
+    {
+      "inicio_segundos": 238.56,
+      "fim_segundos": 245.16,
+      "texto": "ver qual que é a fonte que a banca, ela vai adotar, você vai precisar também olhar a profissão,",
+      "probabilidade_sem_fala": 0.146
+    },
+    {
+      "inicio_segundos": 245.16,
+      "fim_segundos": 249.6,
+      "texto": "não sei como é que eu vejo isso, como é que você vai ver isso? Você vai olhar questão de concurso",
+      "probabilidade_sem_fala": 0.146
+    },
+    {
+      "inicio_segundos": 249.6,
+      "fim_segundos": 256.48,
+      "texto": "público anterior. Se a sua banca, por exemplo, é FGV, SEBRASP, então você vai resolver muitas",
+      "probabilidade_sem_fala": 0.146
+    },
+    {
+      "inicio_segundos": 256.48,
+      "fim_segundos": 262.44,
+      "texto": "coisas dessa banca para que você possa perceber qual que é a metodologia que a banca tá usando,",
+      "probabilidade_sem_fala": 0.049
+    },
+    {
+      "inicio_segundos": 262.44,
+      "fim_segundos": 270.24,
+      "texto": "porque geralmente elas, as questões elas vão de acordo com uma metodologia. Tranquilo? Bom,",
+      "probabilidade_sem_fala": 0.049
+    },
+    {
+      "inicio_segundos": 270.24,
+      "fim_segundos": 276.48,
+      "texto": "dito isso, agora a gente precisa adiantar um pouquinho aqui e a gente precisa falar sobre",
+      "probabilidade_sem_fala": 0.049
+    },
+    {
+      "inicio_segundos": 276.48,
+      "fim_segundos": 285.68,
+      "texto": "os objetivos do DFC. Existe objetivo geral e existe objetivos específicos e aí você tem",
+      "probabilidade_sem_fala": 0.049
+    },
+    {
+      "inicio_segundos": 285.68,
+      "fim_segundos": 296.12,
+      "texto": "qual é qual. Quando a gente fala em DFC, o objetivo geral dele é justamente reunir informações",
+      "probabilidade_sem_fala": 0.005
+    },
+    {
+      "inicio_segundos": 296.12,
+      "fim_segundos": 303.52,
+      "texto": "para quê? Para a retenção, controle de água da chuva. Então essas informações, elas vão",
+      "probabilidade_sem_fala": 0.005
+    },
+    {
+      "inicio_segundos": 303.52,
+      "fim_segundos": 312.16,
+      "texto": "trabalhar como? Trabalhando ali por micro-bacias dentro de uma sub-bacia. É tecnicamente isso,",
+      "probabilidade_sem_fala": 0.005
+    },
+    {
+      "inicio_segundos": 312.64,
+      "fim_segundos": 323.48,
+      "texto": "então existe uma ideia aqui de escalas, a bacia que vai se dividir em sub-bacias, que vão se dividir em",
+      "probabilidade_sem_fala": 0.002
+    },
+    {
+      "inicio_segundos": 323.48,
+      "fim_segundos": 330.48,
+      "texto": "micro-bacias. É como se a gente estivesse olhando aquelas bonecas russas que ficam uma dentro da outra.",
+      "probabilidade_sem_fala": 0.002
+    },
+    {
+      "inicio_segundos": 330.48,
+      "fim_segundos": 339.44,
+      "texto": "Então esse é o objetivo geral, reunir informações, perfeito? Aí existem os",
+      "probabilidade_sem_fala": 0.002
+    },
+    {
+      "inicio_segundos": 340.2,
+      "fim_segundos": 352.32,
+      "texto": "objetivos específicos. Qual que é o objetivo específico? São três. Primeiro, precisa mapear",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 352.32,
+      "fim_segundos": 359.72,
+      "texto": "onde estão as terras mais propícias para a agricultura, para o florestamento, para a pastagem,",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 359.72,
+      "fim_segundos": 368.96,
+      "texto": "terras que não podem ser utilizadas, precisa ali ficar com floresta. Então segundo, precisa",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 368.96,
+      "fim_segundos": 377.32,
+      "texto": "recomendar florestamentos e operações que favoreçam a infiltração de água no solo. E terceiro,",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 377.32,
+      "fim_segundos": 387.48,
+      "texto": "dar base para o controle da erosão. Então o terceiro é dar essa base para quê? Controlar",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 387.48,
+      "fim_segundos": 394.28,
+      "texto": "a erosão. Mas não é só erosão, controlar a seca, controlar as enchentes, controlar os",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 394.28,
+      "fim_segundos": 400.8,
+      "texto": "assoreamentos que podem acontecer ali ao longo daquela bacia. Então repare que existe aqui um",
+      "probabilidade_sem_fala": 0.004
+    },
+    {
+      "inicio_segundos": 400.8,
+      "fim_segundos": 409.64,
+      "texto": "fio condutor. Tudo vai girar em torno de quê? Em torno de fazer a água da chuva infiltrar no solo.",
+      "probabilidade_sem_fala": 0.004
+    },
+    {
+      "inicio_segundos": 409.64,
+      "fim_segundos": 418.68,
+      "texto": "Então a ideia central aqui, os objetivos, eles justamente vão girar em torno disso. Fazer com",
+      "probabilidade_sem_fala": 0.004
+    },
+    {
+      "inicio_segundos": 418.8,
+      "fim_segundos": 428.6,
+      "texto": "a infiltração da água da chuva, que se diminua o quê? A enxurrada. Porque se você, se a água",
+      "probabilidade_sem_fala": 0.003
+    },
+    {
+      "inicio_segundos": 428.6,
+      "fim_segundos": 436.64,
+      "texto": "infiltra no solo, ela abastece o lençol freático, ela alimenta os rios, principalmente ali na seca,",
+      "probabilidade_sem_fala": 0.003
+    },
+    {
+      "inicio_segundos": 436.64,
+      "fim_segundos": 443.0,
+      "texto": "né? E o mais importante, ela não leva a terra embora. Então veja que a gente está falando de",
+      "probabilidade_sem_fala": 0.003
+    },
+    {
+      "inicio_segundos": 443.0,
+      "fim_segundos": 448.8,
+      "texto": "manejamento conservacionista. Então é conservar o meio ambiente, conservar o solo,",
+      "probabilidade_sem_fala": 0.035
+    },
+    {
+      "inicio_segundos": 448.8,
+      "fim_segundos": 457.28,
+      "texto": "conservar solo e consequentemente conservar a água. Bom, aí aqui a gente vai falar de um critério,",
+      "probabilidade_sem_fala": 0.035
+    },
+    {
+      "inicio_segundos": 457.28,
+      "fim_segundos": 465.88,
+      "texto": "um critério muito concreto do método DFC, que é o critério do florestamento mínimo por",
+      "probabilidade_sem_fala": 0.035
+    },
+    {
+      "inicio_segundos": 466.0,
+      "fim_segundos": 473.48,
+      "texto": "declividade. Esse critério é relativamente bem simples, viu, pessoal? Se olha para a microbacia",
+      "probabilidade_sem_fala": 0.032
+    },
+    {
+      "inicio_segundos": 473.48,
+      "fim_segundos": 481.28,
+      "texto": "e olha a declividade média, se essa declividade média dessa microbacia for inferior a 15%,",
+      "probabilidade_sem_fala": 0.032
+    },
+    {
+      "inicio_segundos": 481.28,
+      "fim_segundos": 492.56,
+      "texto": "então o método vai recomendar florestar no mínimo 25%. Tranquilo? Agora, se olha para uma",
+      "probabilidade_sem_fala": 0.032
+    },
+    {
+      "inicio_segundos": 492.56,
+      "fim_segundos": 504.8,
+      "texto": "microbacia, se observa que a declividade média dela é igual ou superior a 15%, aí o mínimo do",
+      "probabilidade_sem_fala": 0.002
+    },
+    {
+      "inicio_segundos": 504.8,
+      "fim_segundos": 514.24,
+      "texto": "nosso reflorestamento aqui ou do nosso florestamento, né? Vai ser de quanto? 50%. A lógica aqui,",
+      "probabilidade_sem_fala": 0.002
+    },
+    {
+      "inicio_segundos": 514.24,
+      "fim_segundos": 520.28,
+      "texto": "pessoal, é uma lógica assim, bem intuitiva. Eu não sei se você pegou isso, mas é o seguinte,",
+      "probabilidade_sem_fala": 0.002
+    },
+    {
+      "inicio_segundos": 520.28,
+      "fim_segundos": 529.16,
+      "texto": "quanto mais inclinado o terreno, maior é o risco do que? De erosão e de enxurrada. Quanto",
+      "probabilidade_sem_fala": 0.0
+    },
+    {
+      "inicio_segundos": 529.16,
+      "fim_segundos": 540.0,
+      "texto": "mais inclinado o terreno, menor vai ser a infiltração da água no solo. Então, precisa ter mais floresta",
+      "probabilidade_sem_fala": 0.0
+    },
+    {
+      "inicio_segundos": 540.0,
+      "fim_segundos": 547.6,
+      "texto": "para proteger essa bacia hidrográfica. Tranquilo? E, olha, muito cuidado, porque tem um detalhe",
+      "probabilidade_sem_fala": 0.0
+    },
+    {
+      "inicio_segundos": 547.6,
+      "fim_segundos": 557.48,
+      "texto": "que eu falei para vocês, nós estamos falando de média da microbacia e não da média ali de cada",
+      "probabilidade_sem_fala": 0.022
+    },
+    {
+      "inicio_segundos": 557.48,
+      "fim_segundos": 570.24,
+      "texto": "talhão, é a média da declividade ali da microbacia. Tranquilo? Bom, dito isso, pessoal, a gente tem",
+      "probabilidade_sem_fala": 0.022
+    },
+    {
+      "inicio_segundos": 570.24,
+      "fim_segundos": 575.44,
+      "texto": "que resolver questão de concurso público para que a gente possa ver como isso vai ser aplicado",
+      "probabilidade_sem_fala": 0.022
+    },
+    {
+      "inicio_segundos": 575.44,
+      "fim_segundos": 581.8,
+      "texto": "na forma palpável ali na nossa prova, certinho? Vamos lá. Resolve a questão, na sequência,",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 581.8,
+      "fim_segundos": 593.2,
+      "texto": "a gente resolve ela juntos. Bom, se você já resolveu, agora é hora da gente resolver essa",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 593.2,
+      "fim_segundos": 599.96,
+      "texto": "questão juntos. Olha só, a questão diz o seguinte, ao realizar planejamento do uso da terra em uma",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 599.96,
+      "fim_segundos": 607.88,
+      "texto": "hidrográfica com áreas agrícolas e florestais, os práticas, é prática ou são práticas",
+      "probabilidade_sem_fala": 0.039
+    },
+    {
+      "inicio_segundos": 607.88,
+      "fim_segundos": 617.48,
+      "texto": "conservacionistas indispensáveis ou indispensáveis. Alternativa de letra A. A supressão completa",
+      "probabilidade_sem_fala": 0.039
+    },
+    {
+      "inicio_segundos": 617.48,
+      "fim_segundos": 625.48,
+      "texto": "da mata ciliar, supressão completa da mata ciliar e o uso irrestrito de fertilizantes como",
+      "probabilidade_sem_fala": 0.039
+    },
+    {
+      "inicio_segundos": 625.48,
+      "fim_segundos": 631.6,
+      "texto": "o de proporcionar rápido crescimento e desenvolvimento da vegetação rasteira. E aí, pessoal, certo",
+      "probabilidade_sem_fala": 0.006
+    },
+    {
+      "inicio_segundos": 631.6,
+      "fim_segundos": 639.0,
+      "texto": "e errado? Errado, né, pessoal? Alternativa está incorreta justamente porque essa supressão completa",
+      "probabilidade_sem_fala": 0.006
+    },
+    {
+      "inicio_segundos": 639.0,
+      "fim_segundos": 646.88,
+      "texto": "aí da mata ciliar compromete quem? A proteção das margens, a proteção dos cursos d'água favorece",
+      "probabilidade_sem_fala": 0.006
+    },
+    {
+      "inicio_segundos": 646.88,
+      "fim_segundos": 653.52,
+      "texto": "quem? Erosão. Planejamento conservacionista, a gente sempre busca o quê? Reduzir o máximo",
+      "probabilidade_sem_fala": 0.006
+    },
+    {
+      "inicio_segundos": 653.52,
+      "fim_segundos": 660.96,
+      "texto": "da erosão, reduzir a enxurrada, reduzir o assoriamento, né, porque tudo isso vai levar ao que é a perca",
+      "probabilidade_sem_fala": 0.002
+    },
+    {
+      "inicio_segundos": 660.96,
+      "fim_segundos": 668.2,
+      "texto": "da biodiversidade. Então, além disso, a alternativa ainda fala de um uso irrestrito de fertilizantes e",
+      "probabilidade_sem_fala": 0.002
+    },
+    {
+      "inicio_segundos": 668.2,
+      "fim_segundos": 675.76,
+      "texto": "isso pode provocar contaminação dos cursos hídricos, pode levar à eutrofização, certo? Então,",
+      "probabilidade_sem_fala": 0.002
+    },
+    {
+      "inicio_segundos": 675.76,
+      "fim_segundos": 683.52,
+      "texto": "a alternativa de letra A totalmente incorreta. Alternativa de letra B, a agricultura em faixa de",
+      "probabilidade_sem_fala": 0.08
+    },
+    {
+      "inicio_segundos": 683.52,
+      "fim_segundos": 691.96,
+      "texto": "cem metros de largura em toda a margem dos cursos d'água, independentemente do porte do rio, certo",
+      "probabilidade_sem_fala": 0.08
+    },
+    {
+      "inicio_segundos": 691.96,
+      "fim_segundos": 699.68,
+      "texto": "e errado, pessoal? Incorreto, porque está incorreto? Porque a agricultura nas margens dos cursos d'água,",
+      "probabilidade_sem_fala": 0.08
+    },
+    {
+      "inicio_segundos": 699.68,
+      "fim_segundos": 707.44,
+      "texto": "elas precisam respeitar a legislação, precisam respeitar as áreas de preservação permanente.",
+      "probabilidade_sem_fala": 0.012
+    },
+    {
+      "inicio_segundos": 707.44,
+      "fim_segundos": 717.44,
+      "texto": "E a legislação voltada aí à PP, a área de preservação permanente, ela vai variar ali conforme",
+      "probabilidade_sem_fala": 0.012
+    },
+    {
+      "inicio_segundos": 717.44,
+      "fim_segundos": 725.56,
+      "texto": "ali a largura dos cursos d'água. Então, ela vai dizer ali qual que é a largura, né,",
+      "probabilidade_sem_fala": 0.012
+    },
+    {
+      "inicio_segundos": 725.6,
+      "fim_segundos": 735.68,
+      "texto": "conto que vai ser permitido ali a agricultura, certo? Então, ela tem critérios e esses critérios",
+      "probabilidade_sem_fala": 0.003
+    },
+    {
+      "inicio_segundos": 735.68,
+      "fim_segundos": 742.84,
+      "texto": "vão variar ali de acordo com a largura dos rios. Então, dizer que essa faixa agrícola de cem",
+      "probabilidade_sem_fala": 0.003
+    },
+    {
+      "inicio_segundos": 742.84,
+      "fim_segundos": 749.8,
+      "texto": "metros em todas as margens deixa essa alternativa aqui incorreta. Tranquilo? Alternativa de letra C,",
+      "probabilidade_sem_fala": 0.003
+    },
+    {
+      "inicio_segundos": 750.8,
+      "fim_segundos": 758.68,
+      "texto": "manutenção de áreas de preservação permanente, reflorestamento nas margens e práticas de terrasseamento",
+      "probabilidade_sem_fala": 0.002
+    },
+    {
+      "inicio_segundos": 758.68,
+      "fim_segundos": 767.32,
+      "texto": "nas encostas. Pessoal, essa alternativa aqui, ela está correta, porque são práticas conservacionistas",
+      "probabilidade_sem_fala": 0.002
+    },
+    {
+      "inicio_segundos": 767.32,
+      "fim_segundos": 772.6,
+      "texto": "indispensáveis, o que é manter as áreas de preservação permanente, é indispensável,",
+      "probabilidade_sem_fala": 0.002
+    },
+    {
+      "inicio_segundos": 773.12,
+      "fim_segundos": 781.24,
+      "texto": "o reflorestamento ali nas margens para proteger os cursos d'água contra o assoreamento,",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 781.24,
+      "fim_segundos": 788.2,
+      "texto": "práticas de terrasseamento nas encostas são muito utilizados para proteger aí esses cursos d'água.",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 788.2,
+      "fim_segundos": 795.28,
+      "texto": "Então, a alternativa de letra C, ela traz exemplos práticos aqui de práticas conservacionistas",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 795.28,
+      "fim_segundos": 805.84,
+      "texto": "que são realmente indispensáveis para realizar ali o planejamento do uso da terra de uma",
+      "probabilidade_sem_fala": 0.026
+    },
+    {
+      "inicio_segundos": 805.84,
+      "fim_segundos": 813.68,
+      "texto": "bacia hidrográfica, perfeito? Alternativa de letra D, uso intensivo de terrasso nos meandros do",
+      "probabilidade_sem_fala": 0.026
+    },
+    {
+      "inicio_segundos": 813.68,
+      "fim_segundos": 820.68,
+      "texto": "rio nas áreas de remanso e nas áreas costeiras. Pessoal, está errado? Porque o terrasseamento",
+      "probabilidade_sem_fala": 0.026
+    },
+    {
+      "inicio_segundos": 820.68,
+      "fim_segundos": 825.72,
+      "texto": "é uma prática mecânica, como a gente já viu, corta aqui para mim. Terrasseamento é uma prática",
+      "probabilidade_sem_fala": 0.066
+    },
+    {
+      "inicio_segundos": 825.72,
+      "fim_segundos": 832.6,
+      "texto": "mecânica, a gente já estudou sobre ele, né? E ele vai utilizar principalmente o que? Ele vai ser",
+      "probabilidade_sem_fala": 0.066
+    },
+    {
+      "inicio_segundos": 832.6,
+      "fim_segundos": 839.04,
+      "texto": "utilizado principalmente em terrenos agrícolas, terrenos que tenham ali declividade adequada.",
+      "probabilidade_sem_fala": 0.066
+    },
+    {
+      "inicio_segundos": 839.04,
+      "fim_segundos": 845.16,
+      "texto": "O terrasseamento, vamos recordar aqui, ele é utilizado para quê? Para interceptar e para",
+      "probabilidade_sem_fala": 0.066
+    },
+    {
+      "inicio_segundos": 845.28,
+      "fim_segundos": 853.44,
+      "texto": "escorrar o escoamento superficial. Ele não vai ser destinado ali ao uso intensivo em meandros de rios,",
+      "probabilidade_sem_fala": 0.017
+    },
+    {
+      "inicio_segundos": 853.44,
+      "fim_segundos": 861.92,
+      "texto": "áreas de remanso ou então regiões costeiras, porque essas áreas elas apresentam dinâmicas",
+      "probabilidade_sem_fala": 0.017
+    },
+    {
+      "inicio_segundos": 861.92,
+      "fim_segundos": 868.68,
+      "texto": "hidrológicas muito específicas. Tranquilo? Então, esse é o erro aí da alternativa de letra D.",
+      "probabilidade_sem_fala": 0.017
+    },
+    {
+      "inicio_segundos": 868.68,
+      "fim_segundos": 875.12,
+      "texto": "A alternativa de letra E permitida desmatamento nas áreas de preservação permanente, desde que",
+      "probabilidade_sem_fala": 0.017
+    },
+    {
+      "inicio_segundos": 875.12,
+      "fim_segundos": 881.52,
+      "texto": "é a compensação em local distinto com as mesmas características da área original. Errado,",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 881.52,
+      "fim_segundos": 887.04,
+      "texto": "não é pessoal? Errado porque o desmatamento em áreas de preservação permanente não pode ser",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 887.04,
+      "fim_segundos": 893.12,
+      "texto": "autorizado simplesmente mediante ali uma compensação ambiental em uma outra localidade.",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 893.12,
+      "fim_segundos": 900.08,
+      "texto": "Tranquilo? Então, também está errado. O gabarito aqui de fato alternativa de letra C. Vamos",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 900.08,
+      "fim_segundos": 909.2,
+      "texto": "ver aqui justamente. Olha só, seguindo o pessoal, agora nós vamos falar que um planejamento",
+      "probabilidade_sem_fala": 0.031
+    },
+    {
+      "inicio_segundos": 909.2,
+      "fim_segundos": 917.6,
+      "texto": "para ele ser, um planejamento conservacionista para ele ser completo, ele não vai parar só no",
+      "probabilidade_sem_fala": 0.031
+    },
+    {
+      "inicio_segundos": 917.6,
+      "fim_segundos": 924.44,
+      "texto": "nosso diagnóstico físico. Ele vai precisar também de um olhar socioeconômico e de um olhar",
+      "probabilidade_sem_fala": 0.031
+    },
+    {
+      "inicio_segundos": 924.44,
+      "fim_segundos": 931.24,
+      "texto": "ambiental e aí vão entrar esses nossos dois diagnósticos. O diagnóstico socioeconômico que",
+      "probabilidade_sem_fala": 0.006
+    },
+    {
+      "inicio_segundos": 931.24,
+      "fim_segundos": 939.56,
+      "texto": "vai ser chamado de DSE, que vai avaliar as condições econômicas das pessoas que vivem ali naquela",
+      "probabilidade_sem_fala": 0.006
+    },
+    {
+      "inicio_segundos": 939.56,
+      "fim_segundos": 947.6,
+      "texto": "base hidrográfica. Então, qual é o intuito aqui? É observar a renda, a infraestrutura, as formas",
+      "probabilidade_sem_fala": 0.006
+    },
+    {
+      "inicio_segundos": 947.6,
+      "fim_segundos": 954.84,
+      "texto": "de realização que são praticadas ali por aquelas comunidades. É justamente o que essa imagem",
+      "probabilidade_sem_fala": 0.239
+    },
+    {
+      "inicio_segundos": 954.84,
+      "fim_segundos": 962.0,
+      "texto": "está mostrando aqui, ó, para vocês, ó, esse primeiro panel aqui. Então, vai olhar as pessoas e",
+      "probabilidade_sem_fala": 0.239
+    },
+    {
+      "inicio_segundos": 962.0,
+      "fim_segundos": 969.24,
+      "texto": "por que que isso é importante? Porque um plano pessoal, um plano tecnicamente perfeito, só",
+      "probabilidade_sem_fala": 0.239
+    },
+    {
+      "inicio_segundos": 969.24,
+      "fim_segundos": 976.48,
+      "texto": "que o agricultor, ele não tem condições de pagar por aquele plano ou se for de graça,",
+      "probabilidade_sem_fala": 0.239
+    },
+    {
+      "inicio_segundos": 976.48,
+      "fim_segundos": 983.04,
+      "texto": "ele não tem condição de executar aquele plano, é um plano que vai ficar só no papel. Então,",
+      "probabilidade_sem_fala": 0.005
+    },
+    {
+      "inicio_segundos": 983.04,
+      "fim_segundos": 993.96,
+      "texto": "não vai adiantar muito. Então, por isso que todo plano ele precisa olhar essas três vertentes.",
+      "probabilidade_sem_fala": 0.005
+    },
+    {
+      "inicio_segundos": 993.96,
+      "fim_segundos": 1001.72,
+      "texto": "Preciso olhar para um diagnóstico físico, que é o primeiro que se deve ser observado, depois o",
+      "probabilidade_sem_fala": 0.005
+    },
+    {
+      "inicio_segundos": 1001.72,
+      "fim_segundos": 1008.32,
+      "texto": "diagnóstico socioeconômico e por último ainda um diagnóstico ambiental. No diagnóstico ambiental vai",
+      "probabilidade_sem_fala": 0.076
+    },
+    {
+      "inicio_segundos": 1008.32,
+      "fim_segundos": 1015.36,
+      "texto": "se avaliar o que? As condições ambientais são condições mais amplas ali da bacia, como por",
+      "probabilidade_sem_fala": 0.076
+    },
+    {
+      "inicio_segundos": 1015.36,
+      "fim_segundos": 1023.48,
+      "texto": "exemplo, a qualidade dos remanescentes de vegetação nativa, a própria situação geral ali dos recursos",
+      "probabilidade_sem_fala": 0.076
+    },
+    {
+      "inicio_segundos": 1023.48,
+      "fim_segundos": 1031.8,
+      "texto": "ambientais é olhar para a natureza ali, para a parte ambiental mesmo da bacia. Então, veja, nós temos",
+      "probabilidade_sem_fala": 0.177
+    },
+    {
+      "inicio_segundos": 1031.8,
+      "fim_segundos": 1041.4,
+      "texto": "DFC, que vai olhar quem? O terreno, vai olhar a parte física e aí nós temos o DSE, que vai ter um",
+      "probabilidade_sem_fala": 0.177
+    },
+    {
+      "inicio_segundos": 1041.4,
+      "fim_segundos": 1050.0,
+      "texto": "olhar mais voltado para as pessoas, é o diagnóstico socioeconômico e aí a gente tem o nosso DA,",
+      "probabilidade_sem_fala": 0.177
+    },
+    {
+      "inicio_segundos": 1050.0,
+      "fim_segundos": 1055.8,
+      "texto": "o diagnóstico ambiental, que vai olhar o meio ambiente como um todo. É como se fossem ali três",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1055.8,
+      "fim_segundos": 1062.24,
+      "texto": "plantes que vão ser usadas em conjunto, justamente para enxergar a mesma bacia hidrográfica.",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1062.24,
+      "fim_segundos": 1070.56,
+      "texto": "Agora pessoal, a gente tem que pegar esses três diagnósticos e juntá-los, porque não vão",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1070.56,
+      "fim_segundos": 1080.24,
+      "texto": "ser soltos, eles vão ser combinados no índice. Esse índice vai ser chamado de roda viva de",
+      "probabilidade_sem_fala": 0.048
+    },
+    {
+      "inicio_segundos": 1080.24,
+      "fim_segundos": 1088.64,
+      "texto": "deterioração da ambiência. Exatamente essa imagem que eu trouxe aqui para vocês, olha só.",
+      "probabilidade_sem_fala": 0.048
+    },
+    {
+      "inicio_segundos": 1090.64,
+      "fim_segundos": 1099.64,
+      "texto": "Essa roda vai ser dividida em três partes, quem são as três partes? DFC, DSE e DAA.",
+      "probabilidade_sem_fala": 0.048
+    },
+    {
+      "inicio_segundos": 1100.24,
+      "fim_segundos": 1110.6,
+      "texto": "Perfeito? E aí no centro vai estar quem? A deterioração de ambiência. Então cada diagnóstico ele vai",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1110.6,
+      "fim_segundos": 1118.6,
+      "texto": "gerar um percentual de deterioração e esse percentual é da deterioração da subbacia,",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1118.6,
+      "fim_segundos": 1127.16,
+      "texto": "viu pessoal? É um cálculo relativamente muito simples de ser feito, porque a deterioração de",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1127.16,
+      "fim_segundos": 1133.44,
+      "texto": "ambiência vai ser uma média simples desses três percentuais. Então primeiro se soma e depois se",
+      "probabilidade_sem_fala": 0.017
+    },
+    {
+      "inicio_segundos": 1133.44,
+      "fim_segundos": 1140.72,
+      "texto": "divide por três. E aqui é um ponto que às vezes as bancas elas gostam de explorar, viu pessoal,",
+      "probabilidade_sem_fala": 0.017
+    },
+    {
+      "inicio_segundos": 1140.72,
+      "fim_segundos": 1146.64,
+      "texto": "porque é uma média simples. Ser uma média simples significa o quê? Que nenhum desses",
+      "probabilidade_sem_fala": 0.017
+    },
+    {
+      "inicio_segundos": 1146.64,
+      "fim_segundos": 1154.04,
+      "texto": "diagnósticos ele vai pesar mais do que o outro. O diagnóstico físico, o diagnóstico socioeconômico",
+      "probabilidade_sem_fala": 0.017
+    },
+    {
+      "inicio_segundos": 1154.04,
+      "fim_segundos": 1161.52,
+      "texto": "e o diagnóstico ambiental eles têm o mesmo peso, justamente porque são as três dimensões que",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1161.52,
+      "fim_segundos": 1169.08,
+      "texto": "vão estar interligadas. Vamos aprender a fazer esse cálculo aqui, é muito simples, viu pessoal?",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1169.08,
+      "fim_segundos": 1175.0,
+      "texto": "Caso apareça aí numa questão de concurso público para você, você já vai saber fazer esse cálculo.",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1175.0,
+      "fim_segundos": 1181.56,
+      "texto": "Bom, primeiro o que é que se faz? Se identifica os dados. Nós temos aí eu trouxe aqui",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1181.56,
+      "fim_segundos": 1189.08,
+      "texto": "os dados para exemplificar, viu pessoal? Nós temos um DFC de, deixa eu ampliar essa imagem para melhorar",
+      "probabilidade_sem_fala": 0.004
+    },
+    {
+      "inicio_segundos": 1189.08,
+      "fim_segundos": 1202.52,
+      "texto": "para a sua visualização. Nós temos um DFC de 67,60%, um DSE de 78,61 da de 40,60%. Então eu vou",
+      "probabilidade_sem_fala": 0.004
+    },
+    {
+      "inicio_segundos": 1202.52,
+      "fim_segundos": 1211.88,
+      "texto": "fazer a média simples. Como é a média simples? DFC mais DSE mais DA dividido por 3. Qual é o resultado",
+      "probabilidade_sem_fala": 0.034
+    },
+    {
+      "inicio_segundos": 1211.88,
+      "fim_segundos": 1223.24,
+      "texto": "que eu vou ter aqui? O meu resultado vai ser 62,27%. Aí eu vou ter que interpretar isso, né pessoal?",
+      "probabilidade_sem_fala": 0.034
+    },
+    {
+      "inicio_segundos": 1223.24,
+      "fim_segundos": 1234.2,
+      "texto": "Porque a média ela sempre vai ficar entre quem? Entre o menor valor e o maior valor. Perfeito? O resultado",
+      "probabilidade_sem_fala": 0.005
+    },
+    {
+      "inicio_segundos": 1234.2,
+      "fim_segundos": 1243.72,
+      "texto": "da minha deterioração de ambiência estimada foi de quanto? De 62,27% para a minha subbacia. Qual",
+      "probabilidade_sem_fala": 0.005
+    },
+    {
+      "inicio_segundos": 1243.72,
+      "fim_segundos": 1248.32,
+      "texto": "que é o pulo do gato que eu tenho que levar em consideração aqui? Que o diagnóstico com",
+      "probabilidade_sem_fala": 0.005
+    },
+    {
+      "inicio_segundos": 1248.32,
+      "fim_segundos": 1257.76,
+      "texto": "maior deterioração geralmente vai ser o socioeconômico, porque ele vai e ele vai indicar onde o plano",
+      "probabilidade_sem_fala": 0.03
+    },
+    {
+      "inicio_segundos": 1257.76,
+      "fim_segundos": 1264.32,
+      "texto": "precisa concentrar mais forças. Perfeito? Isso aqui é só um pulo do gato para você, viu gente?",
+      "probabilidade_sem_fala": 0.03
+    },
+    {
+      "inicio_segundos": 1264.32,
+      "fim_segundos": 1271.32,
+      "texto": "Mas o cálculo é feito dessa forma aqui que eu estou mostrando para vocês. Tranquilo? Corta aqui",
+      "probabilidade_sem_fala": 0.03
+    },
+    {
+      "inicio_segundos": 1271.32,
+      "fim_segundos": 1275.96,
+      "texto": "para mim. Tenho certeza que você aprendeu a fazer esse cálculo, é relativamente bem simples.",
+      "probabilidade_sem_fala": 0.03
+    },
+    {
+      "inicio_segundos": 1276.0,
+      "fim_segundos": 1283.36,
+      "texto": "Vamos fazer questão de concurso público? Resolve essa questão aí, na sequência a gente resolve ela",
+      "probabilidade_sem_fala": 0.0
+    },
+    {
+      "inicio_segundos": 1283.36,
+      "fim_segundos": 1294.44,
+      "texto": "juntos. Bom, se você já resolveu agora é hora da gente resolver essa questão juntos e a questão",
+      "probabilidade_sem_fala": 0.0
+    },
+    {
+      "inicio_segundos": 1294.44,
+      "fim_segundos": 1301.04,
+      "texto": "ela diz o seguinte, olha só. Sobre o conceito de manejo integrado de bacias idográficas,",
+      "probabilidade_sem_fala": 0.0
+    },
+    {
+      "inicio_segundos": 1301.04,
+      "fim_segundos": 1307.12,
+      "texto": "e olha a alternativa incorreta, veja, está me pedindo a alternativa incorreta. A alternativa de letra A.",
+      "probabilidade_sem_fala": 0.085
+    },
+    {
+      "inicio_segundos": 1307.12,
+      "fim_segundos": 1313.48,
+      "texto": "O manejo integrado visa empregar práticas conservacionistas em propriedades isoladas,",
+      "probabilidade_sem_fala": 0.085
+    },
+    {
+      "inicio_segundos": 1313.48,
+      "fim_segundos": 1320.28,
+      "texto": "sendo essa a unidade hidrográfica considerada. Pessoal, isso aqui está errado. Se está errado,",
+      "probabilidade_sem_fala": 0.085
+    },
+    {
+      "inicio_segundos": 1320.28,
+      "fim_segundos": 1325.48,
+      "texto": "corta aqui para mim. Se está errado é o nosso gabarito. Por que? Por que que está incorreto?",
+      "probabilidade_sem_fala": 0.085
+    },
+    {
+      "inicio_segundos": 1325.48,
+      "fim_segundos": 1334.36,
+      "texto": "Porque o manejo integrado de bacias hidrográficas não considera as propriedades",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1334.36,
+      "fim_segundos": 1340.72,
+      "texto": "rurais de forma isolada. Então a gente viu que a bacia hidrográfica vai ser a nossa unidade",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1340.72,
+      "fim_segundos": 1348.4,
+      "texto": "territorial de planejamento, porque as atividades, elas vão ser realizadas, as atividades,",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1348.4,
+      "fim_segundos": 1354.08,
+      "texto": "elas precisam ser realizadas numa visão macro. Se elas forem realizadas apenas em uma propriedade,",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1354.08,
+      "fim_segundos": 1359.84,
+      "texto": "isso pode afetar outras propriedades. Exatamente aquilo que a gente viu dos nossos dois produtores,",
+      "probabilidade_sem_fala": 0.003
+    },
+    {
+      "inicio_segundos": 1359.84,
+      "fim_segundos": 1364.8,
+      "texto": "o nosso produtor estrela fazendo tudo certo, mas a propriedade dele estava sendo afetada",
+      "probabilidade_sem_fala": 0.003
+    },
+    {
+      "inicio_segundos": 1364.8,
+      "fim_segundos": 1371.24,
+      "texto": "pelo produtor que estava acima dele, porque aquele produtor não estava fazendo, não estava",
+      "probabilidade_sem_fala": 0.003
+    },
+    {
+      "inicio_segundos": 1371.24,
+      "fim_segundos": 1378.68,
+      "texto": "praticando ali, utilizando práticas conservacionistas no seu plantio, e isso prejudicou aquele produtor",
+      "probabilidade_sem_fala": 0.003
+    },
+    {
+      "inicio_segundos": 1378.68,
+      "fim_segundos": 1387.68,
+      "texto": "que estava usando ali as práticas conservacionistas. Então veja, as práticas conservacionistas elas",
+      "probabilidade_sem_fala": 0.018
+    },
+    {
+      "inicio_segundos": 1387.68,
+      "fim_segundos": 1397.2,
+      "texto": "precisam ser planejadas de maneira integrada, mesmo que elas sejam aplicadas na propriedade,",
+      "probabilidade_sem_fala": 0.018
+    },
+    {
+      "inicio_segundos": 1397.2,
+      "fim_segundos": 1404.48,
+      "texto": "mas quando vai se planejar, precisa se planejar de maneira integrada. Então a alternativa de",
+      "probabilidade_sem_fala": 0.018
+    },
+    {
+      "inicio_segundos": 1404.48,
+      "fim_segundos": 1409.88,
+      "texto": "letra B vai ser o nosso gabarito. Se a gente for observar as outras afirmativas aqui, olha só,",
+      "probabilidade_sem_fala": 0.174
+    },
+    {
+      "inicio_segundos": 1409.88,
+      "fim_segundos": 1416.92,
+      "texto": "a alternativa de letra B, o manejo integrado visa permitir a produção sustentável, sendo o uso da",
+      "probabilidade_sem_fala": 0.174
+    },
+    {
+      "inicio_segundos": 1416.92,
+      "fim_segundos": 1422.56,
+      "texto": "bacia hidrográfica compatível com a produção e conservação do meu ambiente, perfeito. A",
+      "probabilidade_sem_fala": 0.174
+    },
+    {
+      "inicio_segundos": 1422.56,
+      "fim_segundos": 1427.0,
+      "texto": "alternativa de letra C, o planejamento socio-econômico ambiental das bacias",
+      "probabilidade_sem_fala": 0.174
+    },
+    {
+      "inicio_segundos": 1427.0,
+      "fim_segundos": 1432.76,
+      "texto": "hidrográficas é imprescindível para o gerenciamento de uma unidade, tranquilo.",
+      "probabilidade_sem_fala": 0.174
+    },
+    {
+      "inicio_segundos": 1433.72,
+      "fim_segundos": 1443.2,
+      "texto": "A alternativa de letra D, cada gleba ou subbacia da propriedade deve ser explorada conforme a sua",
+      "probabilidade_sem_fala": 0.0
+    },
+    {
+      "inicio_segundos": 1443.2,
+      "fim_segundos": 1451.16,
+      "texto": "capacidade de uso para mata, pastagens e ou lavouras, tranquilo, muito bom isso aqui, viu pessoal?",
+      "probabilidade_sem_fala": 0.0
+    },
+    {
+      "inicio_segundos": 1451.16,
+      "fim_segundos": 1461.44,
+      "texto": "É justamente o uso de cada gleba, de cada área da propriedade deve respeitar a sua capacidade de",
+      "probabilidade_sem_fala": 0.0
+    },
+    {
+      "inicio_segundos": 1461.44,
+      "fim_segundos": 1469.12,
+      "texto": "uso e os seus limites naturais. E aqui que a gente observa quem? Declividade, produtividade,",
+      "probabilidade_sem_fala": 0.062
+    },
+    {
+      "inicio_segundos": 1469.12,
+      "fim_segundos": 1478.08,
+      "texto": "profundidade do solo, drenagem, suscetibilidade daquela área, a erosão e é justamente assim que deve",
+      "probabilidade_sem_fala": 0.062
+    },
+    {
+      "inicio_segundos": 1478.08,
+      "fim_segundos": 1483.08,
+      "texto": "ser feito. Por isso que a alternativa de letra D está correta. A alternativa de letra E, o",
+      "probabilidade_sem_fala": 0.062
+    },
+    {
+      "inicio_segundos": 1483.08,
+      "fim_segundos": 1489.96,
+      "texto": "manejo integrado da bacia hidrográfica prevê o manejo sustentável em que se produz para o presente",
+      "probabilidade_sem_fala": 0.062
+    },
+    {
+      "inicio_segundos": 1490.0,
+      "fim_segundos": 1499.48,
+      "texto": "sem comprometer a habilidade de gerações futuras, de seguir usando os recursos naturais. Perfeito,",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1499.48,
+      "fim_segundos": 1505.72,
+      "texto": "pessoal. Essa alternativa é, fala aqui desse manejo integrado que está fundamentado no quê?",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1505.72,
+      "fim_segundos": 1513.08,
+      "texto": "Desenvolvimento sustentável. Então a alternativa de letra E, trocando em miúdos aqui,",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1513.08,
+      "fim_segundos": 1518.8,
+      "texto": "fala no desenvolvimento sustentável. Então de fato a única alternativa errada aqui é a de letra",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1518.8,
+      "fim_segundos": 1526.68,
+      "texto": "D. Vamos ver aqui justamente. Então se a errada é o nosso gabarito. Pessoal, seguindo aqui agora",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1526.68,
+      "fim_segundos": 1534.52,
+      "texto": "a gente vai falar sobre a bacia hidrográfica como unidade territorial. Surge aquela pergunta que",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1534.52,
+      "fim_segundos": 1541.4,
+      "texto": "amarra tudo, né? Professor, por que planejar por bacia hidrográfica e não por propriedade?",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1541.4,
+      "fim_segundos": 1547.84,
+      "texto": "Tem aluno que não se conforma. Ele pensa, não, mas eu trabalho numa propriedade. A",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1547.84,
+      "fim_segundos": 1554.76,
+      "texto": "bacia hidrográfica é muito grande, não vai afetar. Então eu tenho que fazer o meu planejamento ali",
+      "probabilidade_sem_fala": 0.02
+    },
+    {
+      "inicio_segundos": 1554.76,
+      "fim_segundos": 1562.4,
+      "texto": "por propriedade. O planejamento precisa ser por propriedade. O município não planeja ali nos seus",
+      "probabilidade_sem_fala": 0.02
+    },
+    {
+      "inicio_segundos": 1562.4,
+      "fim_segundos": 1568.64,
+      "texto": "limites municipais? Por que que para fazer esse planejamento agora, o planejamento conservacionista",
+      "probabilidade_sem_fala": 0.02
+    },
+    {
+      "inicio_segundos": 1568.64,
+      "fim_segundos": 1574.0,
+      "texto": "tem que levar em consideração uma bacia? Vamos entender. Calma, calma. Vamos entender isso aí.",
+      "probabilidade_sem_fala": 0.02
+    },
+    {
+      "inicio_segundos": 1574.0,
+      "fim_segundos": 1583.52,
+      "texto": "Pessoal, pessoal, primeiramente o que é uma bacia hidrográfica? Bacia hidrográfica é toda a área",
+      "probabilidade_sem_fala": 0.004
+    },
+    {
+      "inicio_segundos": 1583.52,
+      "fim_segundos": 1591.6,
+      "texto": "que drena a água da chuva para o mesmo rio, perfeito? Então ela vai ser limitada por quem?",
+      "probabilidade_sem_fala": 0.004
+    },
+    {
+      "inicio_segundos": 1591.6,
+      "fim_segundos": 1598.76,
+      "texto": "pelos divisores de água. Quem são os divisores de água da bacia hidrográfica são as partes",
+      "probabilidade_sem_fala": 0.004
+    },
+    {
+      "inicio_segundos": 1598.76,
+      "fim_segundos": 1610.76,
+      "texto": "altas do relevo. Olha a nossa imagem aí. Essas linhas aqui, essa linha aqui corresponde",
+      "probabilidade_sem_fala": 0.011
+    },
+    {
+      "inicio_segundos": 1610.76,
+      "fim_segundos": 1620.4,
+      "texto": "ao nosso divisor de águas, que é a parte mais alta do relevo. Nós temos essas linhas trasejadas.",
+      "probabilidade_sem_fala": 0.011
+    },
+    {
+      "inicio_segundos": 1620.52,
+      "fim_segundos": 1630.52,
+      "texto": "Essas linhas trasejadas aqui, pessoal, quem são elas? Elas estão divididas as micro, dividindo ali",
+      "probabilidade_sem_fala": 0.015
+    },
+    {
+      "inicio_segundos": 1630.52,
+      "fim_segundos": 1639.76,
+      "texto": "as micro bacias e toda a água ela está convergindo para quem? Para uma única saída, que é o exutório.",
+      "probabilidade_sem_fala": 0.015
+    },
+    {
+      "inicio_segundos": 1639.76,
+      "fim_segundos": 1649.68,
+      "texto": "Então veja. Essas aqui você tem que cortar aqui para mim. Quando falar de bacia hidrográfica você",
+      "probabilidade_sem_fala": 0.015
+    },
+    {
+      "inicio_segundos": 1649.68,
+      "fim_segundos": 1660.48,
+      "texto": "pode esquecer do divisor de água das micro bacias e do exutório. Pessoal, escolher a bacia",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1660.48,
+      "fim_segundos": 1667.44,
+      "texto": "hidrográfica não é algo arbitrário, porque a bacia hidrográfica ela é uma unidade natural.",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1667.44,
+      "fim_segundos": 1676.12,
+      "texto": "Então a gente pega os efeitos da erosão do escoamento, né? E a gente vai ver o que?",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1676.16,
+      "fim_segundos": 1684.28,
+      "texto": "Que eles vão aparecer toda vez de forma integrada. E aí como é que a gente pode mensurar? Por exemplo,",
+      "probabilidade_sem_fala": 0.002
+    },
+    {
+      "inicio_segundos": 1684.28,
+      "fim_segundos": 1693.56,
+      "texto": "é possível mensurar quanto de sedimento uma região produz? Claro que é possível. Sabe como é que faz isso?",
+      "probabilidade_sem_fala": 0.002
+    },
+    {
+      "inicio_segundos": 1693.56,
+      "fim_segundos": 1703.64,
+      "texto": "Vai pegar lá no exutório. Vai medir lá na saída, lá no exutório. Quanto de sedimento",
+      "probabilidade_sem_fala": 0.002
+    },
+    {
+      "inicio_segundos": 1703.84,
+      "fim_segundos": 1709.52,
+      "texto": "vai sair lá? Então é lá que faz essa medição, porque vai convergir tudo para o mesmo lugar.",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1709.52,
+      "fim_segundos": 1717.88,
+      "texto": "Está entendendo a importância de se utilizar a bacia hidrográfica como unidade? Pessoal,",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1717.88,
+      "fim_segundos": 1725.84,
+      "texto": "o pensamento é muito simples aqui, o que acontece lá no alto da bacia vai afetar de forma",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1725.84,
+      "fim_segundos": 1731.56,
+      "texto": "inevitável quem está lá embaixo, o que acontece lá embaixo no rio. Mais uma vez eu volto",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 1731.56,
+      "fim_segundos": 1738.0,
+      "texto": "para o exemplo inicial do nosso bloco, quando a gente mostrou aquelas duas propriedades. Então veja,",
+      "probabilidade_sem_fala": 0.004
+    },
+    {
+      "inicio_segundos": 1738.0,
+      "fim_segundos": 1748.16,
+      "texto": "tudo que está acontecendo em cima, consequentemente afeta quem está embaixo, viu? Se você se deparar",
+      "probabilidade_sem_fala": 0.004
+    },
+    {
+      "inicio_segundos": 1748.16,
+      "fim_segundos": 1755.96,
+      "texto": "com uma questão de concurso público que peça para você justificar o planejamento por bacia,",
+      "probabilidade_sem_fala": 0.004
+    },
+    {
+      "inicio_segundos": 1756.0,
+      "fim_segundos": 1763.04,
+      "texto": "a resposta que você tem que dar, ela tem que sempre estar alinhada nisso aqui, que a bacia como",
+      "probabilidade_sem_fala": 0.004
+    },
+    {
+      "inicio_segundos": 1763.04,
+      "fim_segundos": 1771.2,
+      "texto": "unidade física é justamente ela em que a água, o solo e o uso da terra, eles vão estar interagindo,",
+      "probabilidade_sem_fala": 0.004
+    },
+    {
+      "inicio_segundos": 1771.2,
+      "fim_segundos": 1777.88,
+      "texto": "eles se integram independentemente dos limites das propriedades, porque como eu falei para vocês,",
+      "probabilidade_sem_fala": 0.004
+    },
+    {
+      "inicio_segundos": 1778.16,
+      "fim_segundos": 1785.0,
+      "texto": "a água ela não respeita uma cerca, ela respeita o quê? Ela vai respeitar,",
+      "probabilidade_sem_fala": 0.005
+    },
+    {
+      "inicio_segundos": 1786.68,
+      "fim_segundos": 1796.36,
+      "texto": "ela vai respeitar aí o relevo da bacia hidrográfica, tranquilo? Bom, agora pessoal,",
+      "probabilidade_sem_fala": 0.005
+    },
+    {
+      "inicio_segundos": 1796.36,
+      "fim_segundos": 1805.24,
+      "texto": "para fechar aqui a gente precisa ver um contexto institucional brasileiro sobre os programas de",
+      "probabilidade_sem_fala": 0.005
+    },
+    {
+      "inicio_segundos": 1805.24,
+      "fim_segundos": 1810.48,
+      "texto": "bacias hidrográficas. Aqui é bem simples, isso aqui é só para que vocês tenham essa noção.",
+      "probabilidade_sem_fala": 0.039
+    },
+    {
+      "inicio_segundos": 1810.48,
+      "fim_segundos": 1819.64,
+      "texto": "No Brasil o reconhecimento oficial pessoal dessa lógica de bacia hidrográfica é recente,",
+      "probabilidade_sem_fala": 0.039
+    },
+    {
+      "inicio_segundos": 1819.64,
+      "fim_segundos": 1827.76,
+      "texto": "viu? O planejamento mais sistematizado do espaço rural ganhou um alcance maior a",
+      "probabilidade_sem_fala": 0.039
+    },
+    {
+      "inicio_segundos": 1827.76,
+      "fim_segundos": 1835.72,
+      "texto": "que quando, de 1987, que foi lá que foi criado o programa nacional das micro-bacias hidrográficas.",
+      "probabilidade_sem_fala": 0.194
+    },
+    {
+      "inicio_segundos": 1835.72,
+      "fim_segundos": 1848.2,
+      "texto": "A partir do decreto 94.076 de 5 de março de 1987, de 1987, e a partir daí os estados",
+      "probabilidade_sem_fala": 0.194
+    },
+    {
+      "inicio_segundos": 1848.2,
+      "fim_segundos": 1858.16,
+      "texto": "foram criando os seus próprios programas de micro-bacias. Pessoal, isso consolidou a micro-bacia,",
+      "probabilidade_sem_fala": 0.078
+    },
+    {
+      "inicio_segundos": 1858.16,
+      "fim_segundos": 1864.6,
+      "texto": "que é uma subdivisão de uma bacia maior, como a gente viu no slide anterior,",
+      "probabilidade_sem_fala": 0.078
+    },
+    {
+      "inicio_segundos": 1864.6,
+      "fim_segundos": 1876.2,
+      "texto": "como a unidade técnica de planejamento rural no nosso país. Então, veja que existe esse marco",
+      "probabilidade_sem_fala": 0.078
+    },
+    {
+      "inicio_segundos": 1876.2,
+      "fim_segundos": 1884.04,
+      "texto": "histórico. A partir de 1987, de 1987, os programas de micro-bacias foram sendo reformulados,",
+      "probabilidade_sem_fala": 0.01
+    },
+    {
+      "inicio_segundos": 1884.04,
+      "fim_segundos": 1890.96,
+      "texto": "alguns foram sendo substituídos por outras iniciativas, tranquilo, mas o marco histórico",
+      "probabilidade_sem_fala": 0.01
+    },
+    {
+      "inicio_segundos": 1890.96,
+      "fim_segundos": 1899.56,
+      "texto": "acontece lá em 1987. Bom, agora vamos resolver questão de concurso público? Vamos fazer",
+      "probabilidade_sem_fala": 0.01
+    },
+    {
+      "inicio_segundos": 1899.56,
+      "fim_segundos": 1904.08,
+      "texto": "uma questão aqui antes de a gente finalizar a nossa aula? Resolve essa questão aí pra gente.",
+      "probabilidade_sem_fala": 0.016
+    },
+    {
+      "inicio_segundos": 1908.88,
+      "fim_segundos": 1915.48,
+      "texto": "Agora nós vamos resolvê-la juntos, olha só, questão diz o seguinte. Uma bacia hidrográfica é uma",
+      "probabilidade_sem_fala": 0.016
+    },
+    {
+      "inicio_segundos": 1915.48,
+      "fim_segundos": 1921.84,
+      "texto": "porção geográfica delimitada por divisores de água, englobando toda a área de drenagem de",
+      "probabilidade_sem_fala": 0.016
+    },
+    {
+      "inicio_segundos": 1921.84,
+      "fim_segundos": 1927.56,
+      "texto": "um curso d'água. É uma unidade geográfica natural e seus limites foram estabelecidos",
+      "probabilidade_sem_fala": 0.016
+    },
+    {
+      "inicio_segundos": 1927.56,
+      "fim_segundos": 1935.56,
+      "texto": "no desenvolvimento das águas sobre a superfície ao longo do tempo. É, portanto, o resultado da",
+      "probabilidade_sem_fala": 0.019
+    },
+    {
+      "inicio_segundos": 1935.56,
+      "fim_segundos": 1943.24,
+      "texto": "interação d'água com outros recursos naturais. As micro-bacias hidrográficas integradas representam",
+      "probabilidade_sem_fala": 0.019
+    },
+    {
+      "inicio_segundos": 1943.24,
+      "fim_segundos": 1949.72,
+      "texto": "unidade de planejamento ambiental e agrícola, permitindo organizar ações de conservação",
+      "probabilidade_sem_fala": 0.019
+    },
+    {
+      "inicio_segundos": 1949.72,
+      "fim_segundos": 1956.04,
+      "texto": "do solo e da água de forma coordenada em relação ao exposto a sinalha alternativa",
+      "probabilidade_sem_fala": 0.019
+    },
+    {
+      "inicio_segundos": 1956.04,
+      "fim_segundos": 1963.68,
+      "texto": "correta, alternativa de letra A. Uma micro-bacia integrada é definida apenas pela presença de",
+      "probabilidade_sem_fala": 0.003
+    },
+    {
+      "inicio_segundos": 1963.68,
+      "fim_segundos": 1972.48,
+      "texto": "rios de grande porte, errado. A gente falou ali que a micro-bacia, ela vai ser definida por quem?",
+      "probabilidade_sem_fala": 0.003
+    },
+    {
+      "inicio_segundos": 1972.48,
+      "fim_segundos": 1980.36,
+      "texto": "Pela área de drenagem que vai ser delimitada por divisores de água, na qual o escoamento ele",
+      "probabilidade_sem_fala": 0.003
+    },
+    {
+      "inicio_segundos": 1980.36,
+      "fim_segundos": 1988.8,
+      "texto": "vai convergir para um ponto de saída comum. Nas micro-bacias, pessoal, pode apresentar ali",
+      "probabilidade_sem_fala": 0.005
+    },
+    {
+      "inicio_segundos": 1988.8,
+      "fim_segundos": 1996.88,
+      "texto": "pequenos rios, pequenos córregos e nascentes, então dizer que é ali pela presença de rios de grande",
+      "probabilidade_sem_fala": 0.005
+    },
+    {
+      "inicio_segundos": 1996.88,
+      "fim_segundos": 2006.36,
+      "texto": "porte é incorreto, viu? Alternativa de letra B. A delimitação de uma micro-bacia ocorre",
+      "probabilidade_sem_fala": 0.005
+    },
+    {
+      "inicio_segundos": 2006.36,
+      "fim_segundos": 2013.56,
+      "texto": "de forma aleatória, sem relação com o relevo ou a drenagem natural. E aí pessoal, o que você acha?",
+      "probabilidade_sem_fala": 0.051
+    },
+    {
+      "inicio_segundos": 2013.56,
+      "fim_segundos": 2018.12,
+      "texto": "Incorreto também, pelo que a gente viu aqui, está incorreto porque a delimitação de uma",
+      "probabilidade_sem_fala": 0.051
+    },
+    {
+      "inicio_segundos": 2018.12,
+      "fim_segundos": 2026.04,
+      "texto": "bacia, ela não vai ocorrer de forma aleatória. Os limites delas vão ser delimitados principalmente",
+      "probabilidade_sem_fala": 0.051
+    },
+    {
+      "inicio_segundos": 2026.04,
+      "fim_segundos": 2032.76,
+      "texto": "através de quem? Do relevo por meio de quem? Dos divisores topográficos da água, que vão",
+      "probabilidade_sem_fala": 0.051
+    },
+    {
+      "inicio_segundos": 2032.76,
+      "fim_segundos": 2038.68,
+      "texto": "dar as áreas de drenagem diferentes, distintas. Alternativa de letra C.",
+      "probabilidade_sem_fala": 0.005
+    },
+    {
+      "inicio_segundos": 2041.56,
+      "fim_segundos": 2047.72,
+      "texto": "Micro-bacias integradas são utilizadas somente para fins urbanos, não tendo relação com",
+      "probabilidade_sem_fala": 0.005
+    },
+    {
+      "inicio_segundos": 2047.72,
+      "fim_segundos": 2055.44,
+      "texto": "atividades rurais. Incorreta, pessoal, extremamente errado isso aqui. Elas também constituem aí as",
+      "probabilidade_sem_fala": 0.005
+    },
+    {
+      "inicio_segundos": 2055.44,
+      "fim_segundos": 2060.88,
+      "texto": "micro-bacias importantes unidades de planejamento rural, porque as micro-bacias elas permitem",
+      "probabilidade_sem_fala": 0.005
+    },
+    {
+      "inicio_segundos": 2060.88,
+      "fim_segundos": 2065.68,
+      "texto": "dar as atividades agropecuárias, permitem ter essa visão de conservação do solo,",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 2065.68,
+      "fim_segundos": 2071.88,
+      "texto": "de proteção de inacentes, de controle dos processos erosivos, então dizer que elas",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 2071.88,
+      "fim_segundos": 2080.4,
+      "texto": "não têm relação com atividades rurais é um erro tremendo aqui, né? Alternativa de letra D.",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 2080.4,
+      "fim_segundos": 2087.92,
+      "texto": "O manejo integrado de micro-bacias busca conservar o solo e a água, promovendo o uso",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 2087.92,
+      "fim_segundos": 2096.84,
+      "texto": "natural do recurso naturais da área. Perfeito. Nosso gabarito, alternativa de letra D. Vamos ver aqui,",
+      "probabilidade_sem_fala": 0.011
+    },
+    {
+      "inicio_segundos": 2096.84,
+      "fim_segundos": 2104.04,
+      "texto": "justamente a alternativa de letra D é o nosso gabarito. Pessoal, agora nós finalizamos essa aula,",
+      "probabilidade_sem_fala": 0.011
+    },
+    {
+      "inicio_segundos": 2104.04,
+      "fim_segundos": 2110.64,
+      "texto": "eu espero que você tenha compreendido se você ficou com alguma dúvida relacionada a esta aula",
+      "probabilidade_sem_fala": 0.011
+    },
+    {
+      "inicio_segundos": 2110.64,
+      "fim_segundos": 2115.88,
+      "texto": "em específico, pode estar mandando mensagem para mim, manda a tua dúvida no fórum de dúvidas.",
+      "probabilidade_sem_fala": 0.011
+    },
+    {
+      "inicio_segundos": 2115.92,
+      "fim_segundos": 2122.12,
+      "texto": "Mas qualquer outra pergunta, você pode ficar, tem a liberdade de entrar em contato comigo através",
+      "probabilidade_sem_fala": 0.001
+    },
+    {
+      "inicio_segundos": 2122.12,
+      "fim_segundos": 2131.0,
+      "texto": "do meu Instagram, arobaprofedivânio.agro. Forte abraço e até a próxima aula, viu pessoal? Até mais!",
+      "probabilidade_sem_fala": 0.001
+    }
+  ]
+}

@@ -34,4 +34,11 @@ O JSON sintético exercita título, citações, marcadores, destaques e relógio
 2. Copie `.gran-ambiente.exemplo.json` para `.gran-ambiente.json`. Aponte `transcritor` para o diretório que contém a pasta do pacote `faster_whisper` (em um ambiente virtual do Windows, normalmente `.venv/Lib/site-packages`, com caminho absoluto). Aponte `modelo` para os arquivos locais do modelo.
 3. Rode `python gran.py verificar` e `python gran.py transcrever caminho/para/aula.mp3 saida/transcricao.json` com o Python do ambiente virtual. Confira as lacunas e divergências com a legenda e os slides.
 
-A cópia pública reúne documentação, código, testes e resultados do piloto. As fontes didáticas, o Word da aula, as transcrições e os artefatos de revisão ficam no acervo local. Use fontes próprias ou autorizadas para executar a esteira.
+## Retomar em outra IDE
+
+Clone este repositório e abra a pasta inteira na IDE. Comece por [AGENTS.md](AGENTS.md) e pelo [guia de retomada](CONTEXTO.md). O [inventário](INVENTARIO.md) identifica os arquivos preservados, com tamanho e SHA-256.
+
+- [Acervo](acervo/) reúne os manuais, os exemplos de Word e as fontes originais recuperadas.
+- [Piloto](piloto/) reúne a entrega, as transcrições, a redação, a montagem e as evidências das três revisões.
+- [Testes](testes/) reúne a amostra editável em JSON, os testes automatizados e as evidências dos testes sintéticos anteriores.
+
